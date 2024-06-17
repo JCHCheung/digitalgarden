@@ -1,0 +1,100 @@
+---
+{"dg-publish":true,"permalink":"/Reference notes/zotero/London.Yaginuma1993/","title":"Wave reflections"}
+---
+
+
+# Wave reflections
+**Web link:** [Open online](https://doi.org/10.1007/978-94-011-0900-0_15)
+**Zotero link:** [Open in Zotero](zotero://select/items/@London.Yaginuma1993)
+**Tags:** [Arterial waveform](../../Knowledge/Medicine/Arterial%20waveform.md), [haemodynamics](haemodynamics)
+- [x] Read
+
+## Abstract
+
+Ejection of blood during contraction of the left ventricle generates a pressure wave which is propagated along the arterial tree and which is perceived in the peripheral arteries as the arterial pulse. As the pressure wave moves away from the heart, part of the energy is reflected back at various sites of the arterial tree. The forward and backward pressure waves merge to produce a characteristic arterial pressure wave [1–3] (Figure 1). The existence of wave reflections is demonstrated by at least two fundamental phenomena:— the radically different shapes of flow and pressure waves in the ascending aorta, since in the absence of reflected waves the flow and pressure waves would be almost identical [1–3]; and— the different pressure amplitudes and waveforms in the aorta and peripheral arteries, with an increased pulse amplitude along the arterial tree with systolic pressure usually higher and diastolic pressure lower in the peripheral arteries [1–3]. This peripheral amplification of pulse and systolic pressures contrasts with an almost constant mean blood pressure whose pressure drop between ascending aorta and radial artery does not exceed 3 mmHg[4, 5].
+
+## Notes
+# Annotations  
+(7/30/2022, 3:07:57 PM)
+
+“Ejection of blood during contraction of the [[left ventricle\|left ventricle]] generates a ==pressure wave== which is propagated along the arterial tree and which is perceived in the peripheral arteries as the arterial pulse. As the pressure wave moves away from the heart, part of the energy is reflected back at various sites of the arterial tree. The ==forward and backward pressure waves== merge to produce a characteristic arterial pressure wave” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=221&annotation=6XSXLGKC) ([London and Yaginuma, 1993, p. 221](zotero://select/library/items/M8J753HF))
+
+“The existence of wave reflections is demonstrated by at least ==two== fundamental phenomena: 
+- the radically different shapes of ==flow== and ==pressure waves== in the ascending aorta, since in the absence of reflected waves the flow and pressure waves would be almost identical [1-3]; and
+- the different pressure amplitudes and waveforms in the [[aorta\|aorta]] and ==peripheral arteries==, with an increased pulse amplitude along the arterial tree with ==systolic pressure== usually ==higher== and ==diastolic pressure lower== in the peripheral arteries [1-3]. 
+
+This ==peripheral amplification== of pulse and systolic pressures contrasts with an almost ==constant mean blood pressure== whose pressure drop between ascending aorta and radial artery ==does not exceed 3 mmHg==” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=221&annotation=6Q5EBS2Q) ([London and Yaginuma, 1993, p. 221](zotero://select/library/items/M8J753HF))
+
+“The pressure waveform in the ascending aorta and central arteries is determined by the pattern of ==left ventricular ejection== and ==aortic input impedance== [1-3]. The ascending aortic flow wave is variable in amplitude and duration, but its contour is almost similar in different animal species and under different physiological conditions [3]. In contrast, the pressure wave is variable under different conditions illustrating the importance of the ==aortic input impedance== as a determinant of the arterial pulse shape [3]. Aortic input impedance which describes the relationship between the ==steady and pulsatile components== of ventricular ejection and resulting pressure wave, is a complex, ==frequency dependent== quantity determined by 
+- the aortic ==diameter and distensibility==, 
+- arteriolar ==tone==, and 
+- ==intensity and timing== of arterial wave reflections.
+
+Thus, as a determinant of aortic impedance/arterial wave reflections play an important role in physiology and pathophysiology” ([London and Yaginuma, 1993, p. 222](zotero://select/library/items/M8J753HF))
+
+“In the systemic arterial tree, wave reflections are generated wherever there is a discontinuity of arterial caliber(s), distensibility, or any mismatch in the vascular impedances [1-3]. Possible reflecting sites include 
+- branching points,
+- sites of diameter and distensibility changes, and
+- the high resistance arterioles
+	- which are a major site of wave reflections. 
+
+As the pressure waves travel at a finite velocity, the ==character and amplitude== of arterial wave reflections are somewhat dependent on the ==location within the arterial tree== at which the pressure wave is recorded [1-9]. An important point of observation is the ascending aorta [10-12]. Viewed from the aortic arch, there appears to be a prominent reflecting site in the descending aorta in the region of ==aortic bifurcation== [10-11] in addition to reflection returning from the ==periphery in the lower body==” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=222&annotation=6LV9QBLX) ([London and Yaginuma, 1993, p. 222](zotero://select/library/items/M8J753HF))
+
+“Both the ==magnitude== and ==timing== of the reflected wave(s) are important in assessing their significance and physiological role. Due to ==spatial dispersion== of the reflecting sites and to ==viscosity== of fluids, part of the energy of the forward traveling (incident) pressure wave would be dissipated and pressure wave would decrease continuously along the aorta and arterial tree [1-3]. On the other hand, as pressure travels down, the reflected waves are closer in phase with the ==incident waves== which is therefore reinforced [1-3, 8]. The effect of ==reflected waves outweighs the viscous damping== [1, 2]. Therefore, the wave reflections physiologically limit the (mean) pressure drop along the large conduit arteries having, thus, a beneficial effect on tissue perfusion.
+
+The reinforcement of the peripheral pressure by the wave reflections limits the pressure which must be developed by the left ventricle, and thus decreases the fluctuation of pulsatile aortic pressure and left ventricular pressures.
+
+As already mentioned, the magnitude of arterial pressure wave reflection, i.e. the ==reflection coefficient==, depends on 
+- the relationships of the ==diameters and distensibility== of the successive arterial segments and on 
+- arteriolar ==tone== and 
+- corresponding peripheral ==resistances==. 
+
+Changes in ==peripheral resistances== have been shown to result in corresponding changes in the wave reflections. An increase in peripheral resistances increases the magnitude of wave reflections, whereas a decrease in resistances induces a decrease in wave reflections” ([London and Yaginuma, 1993, p. 223](zotero://select/library/items/M8J753HF))
+
+“An important aspect of arterial wave reflections is the ==timing== of incident and reflected waves. This is particularly true for wave reflections as seen from the aorta and central arteries with regard to the duration of left ventricular ejection. Since a reflected pressure wave adds to the forward wave, a wave returning during systolic ejection would increase the end systolic pressure and ventricular afterload and would be disadvantageous for ventricular ejection (since the reflected flow wave which is theoretically generated by the backward pressure would subtract from the forward flow wave) [2,3,6, 12, 13]. Opposing the disadvantageous influence of a pressure wave returning early during systole, a wave returning after the peak forward pressure (Figure 1, lower panel) or during the early diastole would increase the diastolic pressure time index creating favorable conditions for the ==coronary perfusion== and improving the ==ventricular/vascular coupling== [2, 3, 12].
+
+The ==timing of wave reflections== in the ascending aorta is under the influence of three principal factors: 
+1) the propagation ==velocity== of the pulse wave;
+2) the ==distance== of the reflecting site(s); and
+3) the ==duration== of the left ventricular ejection” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=223&annotation=M49SVY5M) ([London and Yaginuma, 1993, p. 223](zotero://select/library/items/M8J753HF))
+
+“The principal factors determining the ==amplitude and timing== of pressure wave reflections and their effect on the contour of the pulse wave in ascending aorta are:
+- ==distensibility== of the vessels and resulting ==PWV==
+- body ==shape and height==
+- vasomotor ==tone== of resistive vessels; and
+- ==duration== of ventricular systole” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=225&annotation=K3J4Y6P9) ([London and Yaginuma, 1993, p. 225](zotero://select/library/items/M8J753HF))
+
+“↓ arterial distensibility causes ↑ PWV [1-3, 18, 19]. ↑ PWV results in a ↓ travel time of pressure wave and permits an early return of reflected waves during systole (Figure 2). The reflected wave(s) merge with the systolic part of the incident pulse wave, contributing to an increase in pulse pressure and systolic peak pressure, and the disappearance of the diastolic wave [2, 3, 5, 6]. The role of PWV on the timing of wave reflections could be well documented in certain acute physiological conditions.
+
+For example, during the [valsalva manuever](../../Knowledge/Medicine/Valsalva%20Manoeuvre.md) the aortic transmural pressure and PWV ↓ , inducing a delayed return of wave reflections [10,11,16]. This alteration changes the shape of aortic flow and pressure waves and displaces the late systolic peak through the incisura to form a single wave in diastole. These changes are reversed on release of the Valsalva strain. The reverse of the Valsalva maneuver, the [Muller maneuver](../../Knowledge/Medicine/Muller%20manoeuvre.md) which ↑ aortic transmural pressure and PWV induces an ↑ peak systolic pressure” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=225&annotation=GBSGZDJ6) ([London and Yaginuma, 1993, p. 225](zotero://select/library/items/M8J753HF))
+
+“Besides the alterations in the timing of pressure waves, the changes in arterial pulse during ==aging==, as those described, are also due to alterations in the magnitude of the reflections [1-3]. The appreciation of the role of changes in the ==magnitude== is more difficult [20]. On the one hand, the ↑ peripheral vascular resistances and the changes of the diameter of the abdominal aorta during aging could ↑ reflection coefficient [1-3, 20]. On the other hand, in the elderly there is an equalisation of the distensibility of the aorta and peripheral conduit arteries [1, 18-20]. This results in an improved matching of proximal to distal impedance which tends to diminish the amount of reflected energy and could partially ==offset== the effects of the increased aortic stiffness” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=226&annotation=PEGT6W8F) ([London and Yaginuma, 1993, p. 226](zotero://select/library/items/M8J753HF))
+
+“The influence of body size and body shape on wave reflections has several reasons.
+- First, the ↓ diameter of the major vessels in small subjects ↑ effect of fluid ==viscosity== and ↑ resistance to flow [1]. This is evident from the constancy of mean and pulse pressure in subjects of different size and the contrasting direct relationship between the mean and pulsatile flow and body size [1, 22]. 
+- Second, in smaller subjects the path length to reflecting sites is shorter with two consequences: a lesser dispersion of reflecting sites and a more intense effect of reflections, and for any given PWV a shorter travel time of the reflected wave (dtp); thus, a higher first minimum of impedance [fmin = 1/(2 dtp)] (Figures 6 and 7) [7, 22,24]. This observation brings to mind the well-known fact that ==body length is a determinant of optimal heart rate== (Figure 8) [22, 23, 25, 26]. This is directly related to the optimal matching of the left ventricular ejection to its hydraulic load, i.e. vascular impedance [2, 3]. The coupling would be optimized when the lower harmonic of the flow wave (corresponding to heart rate f, and containing the maximum flow) occur at the frequency offmin (minimal value of impedance modulus i.e maximal flow for minimal pressure) [2,3]. The ventricular/vascular coupling could be expressed in the frequency domain by the f min/f ratio (or in the time domain by the ratio between heart period and dtp). For an optimal f min/f ratio, f min and f should change in parallel. Thus, as f min is determined by body height, body height also determines f. With aging and in hypertension the favorable matching is degraded with 'detuning' [5] of the systemic circulation from the heart as expressed by the increase of fminlf” ([London and Yaginuma, 1993, p. 230](zotero://select/library/items/M8J753HF))
+
+“The direct relationship between heart rate, f min and body height has another 'positive' consequence on the timing between ventricular ejection and reflected waves. The duration of left ventricular ejection is directly related to the duration of the heart period. Thus, in small subjects with an early return of reflected waves (i.e. short dtp and high f min), the left ventricular ejection time is shorter in relation to shorter heart period. The shortening of the systole limits the possibility of the return of reflected waves during the ventricular systole, and reflections are more readily identified during diastole” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=230&annotation=7KMYSSE5) ([London and Yaginuma, 1993, p. 230](zotero://select/library/items/M8J753HF))
+
+> Analytical studies of arterial function treat blood pressure as a ==periodic== phenomenon that can be divided into two components: a ==steady== component ([mean blood pressure](../../Knowledge/Medicine/Mean%20arterial%20pressure.md)) and a ==pulsatile== component ([[Knowledge/Medicine/pulse pressure\|../../Knowledge/Medicine/pulse pressure]]).
+> 
+> The [mean blood pressure](../../Knowledge/Medicine/Mean%20arterial%20pressure.md) is determined exclusively by [[cardiac output\|cardiac output]] and vascular resistances.
+> 
+> The [[Knowledge/Medicine/pulse pressure\|../../Knowledge/Medicine/pulse pressure]] represents the ==oscillation== around this mean, and is determined by the interaction of the ==incident pressure wave== generated by left ventricular ejection, and ==reflected waves==
+[Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=231&annotation=UI6RMTZR) ([London and Yaginuma, 1993, p. 231](zotero://select/library/items/M8J753HF))
+
+“This assumption can be accepted for the [mean blood pressure](../../Knowledge/Medicine/Mean%20arterial%20pressure.md) which remains almost ==constant== along the conduit arteries, but not for ==systolic== and [[Knowledge/Medicine/pulse pressure\|../../Knowledge/Medicine/pulse pressure]] which are ==amplified== toward the periphery by wave reflections. The effect of wave reflection on the augmentation of ==late systolic== pressure is seen in the carotid pressure wave, the ascending aortic pressure wave, and the left ventricular pressure wave in mature humans [13, 5-7, 12, 40-42]. In contrast, the systolic fluctuation due to wave reflection ==occurs later== in peripheral arteries than in central arteries, contributing little or nothing to the systolic peak and pulse pressure amplitude” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=233&annotation=MCHANVCW) ([London and Yaginuma, 1993, p. 233](zotero://select/library/items/M8J753HF))
+
+“The antihypertensive drugs (and vasodilators in general) can change the ==intensity== and/or the ==timing== of wave reflection by several mechanisms. The decrease in the intensity of wave reflection could be due to:
+- ↓ peripheral resistance and ↓ reflection coefficient [1-3]; and
+- ↑ cross-sectional area ratio at arterial branching by dilation of smaller conduit arteries proximal to arterioles [5, 40, 43].
+
+An alteration in the timing of wave reflection could be achieved by delaying the return of reflected waves and/or to a lesser degree by ==shortening the ventricular ejection== [2. 3, 13, 44]. The delay in the return of reflected wave results from ↓ arterial PWV whether related to ↓ [[Knowledge/Medicine/blood pressure\|../../Knowledge/Medicine/blood pressure]] or to eventual alterations of the ==intrinsic viscoelastic properties== of arterial walls.” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=233&annotation=92M6T4AC) ([London and Yaginuma, 1993, p. 233](zotero://select/library/items/M8J753HF))
+
+“In congestive heart failure, the peripheral resistances ↑ and peripheral wave reflections augmented [14]. Beneficial effects of vasodilators in heart failure are explicable on the basis of ↓ intensity and improved timing of wave reflection [14, 40-43]. In these patients the radial and brachial arterial pressure measurements may be a poor guide to the beneficial effect of these medications on left ventricular systolic pressure” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=234&annotation=Z472M4PM) ([London and Yaginuma, 1993, p. 234](zotero://select/library/items/M8J753HF))
+
+“[nitroglycerin](../../Knowledge/Medicine/glyceral%20trinitrate.md) ↓ ascending aortic and left ventricular pressure. This effect is not caused by arteriolar dilatation and fall in peripheral resistances, and it occurs without any change in aortic distensibility and/or PWV [4042]. The major effect of nitrates is to ↓ intensity of reflected wave but without decreasing the terminal (arteriolar) reflection coefficient. Nitrates do that by ↑ caliber and distensibility of small conduit arteries proximal to the arterioles, increasing the cross-sectional area ratio at these arterial branching sites, thus ↓ amplitude of reflected waves at this level [5,40,42]. As with other drugs which reduce the wave reflections, the effect of nitrates on systolic pressure is more pronounced in the ascending aorta and central arteries than peripheral arteries.” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=235&annotation=G55EC7AR) ([London and Yaginuma, 1993, p. 235](zotero://select/library/items/M8J753HF))
+
+“One of the best examples of the beneficial 'manipulation' of wave reflection in medical therapy is arterial counterpulsation. [[Arterial counterpulsation\|Arterial counterpulsation]] is a method of mechanical heart assistance in which a balloon, located in the descending aorta, is inflated and deflated in synchrony with the heart pulsation. The cycle is timed as to reduce the systolic pressure in the aorta, reducing the ventricular afterload and oxygen consumption. To the contrary, the balloon is inflated after the ciosure of aortic valves, generating a pressure wave in the descending aorta which returns centripetally in the diastolic interval, increasing the diastolic-pressure time index and boosting the coronary blood flow. Counterpulsation represents an exaggerated form of wave reflection but must be adequately timed so as to ensure an optimal ventricular/vascular coupling [3, 5]. Aging in man has the same effect as ==inappropriately timed counterpulsation==, with increase in pressure during systole, and relative decrease during diastole [2,3]. A logical therapeutic strategy in older humans is to offset this unfavorable effect of early wave reflection by reducing or delaying the reflected waves” [Go to annotation](zotero://open-pdf/library/items/YTHNH4DB?page=235&annotation=QPSUYZT7) ([London and Yaginuma, 1993, p. 235](zotero://select/library/items/M8J753HF))
+
+## References to check out

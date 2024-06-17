@@ -1,0 +1,77 @@
+---
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Episode 62 —  Problems During Pregnancy With Jacqueline Galvan Part 1/"}
+---
+
+# Episode 62 —  Problems During Pregnancy With Jacqueline Galvan Part 1
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article3.5c705a01b476.png)
+
+## Metadata
+- Author: [[Anesthesia and Critical Care Reviews and Commentary (ACCRAC) Podcast\|Anesthesia and Critical Care Reviews and Commentary (ACCRAC) Podcast]]
+- Full Title: Episode 62 —  Problems During Pregnancy With Jacqueline Galvan Part 1
+- Category: #podcasts
+- URL: https://share.snipd.com/episode/f25d7862-dceb-4247-a714-df164b6fd84f
+
+## Highlights
+- Pre-Term Pregnant Women Are More at Risk Than Elective Abortion
+  Summary:
+  The more common scenarios we will find aspiration and pulmonary sorry plant inspiration pregnant women that are term our emergency procedures of course non-faceted patients. During the intubation is actually the time when they're going to aspirate especially when the difficult layering gasket beat so I guess the question is are you really saving these pre-term patients that are elective from aspiration if theIntubation is the thing that is most associated with intubation right interesting okay.
+  Transcript:
+  Speaker 1
+  And actually the more common scenarios we will find aspiration and pulmonary sorry plant inspiration pregnant women that are term our emergency procedures of course non-faceted patients and actually during the intubation is actually the time when they're going to aspirate especially when the difficult layering gasket beat so I guess the question is are you really saving these especially pre-term patients that are elective from aspiration if the intubation is the thing that is most associated with intubation right interesting okay so maybe I shouldn't I overstated and we shouldn't say that that routine term pregnant women are necessarily at much higher risk not necessarily but that's certainly not to say that they should all have max for things of course mac as that if I mean okay so what about if it's not an elective abortion but it's an intrauterine fetal demise how does that change things yeah so that is the I you have to your intuitive and field of mind is characterizing a fetal death at more than 20 weeks the patients that according to a cargo more at risk are non-Hispanic African ([Time 0:11:23](https://share.snipd.com/snip/c9883b2b-c044-4bb7-93ee-85c341929e76))
+- Do I Need a Repeat C-Section to Deliver a Preterm Fetus?
+  Summary:
+  C-section so it may not be necessary it is probably not the first line treatment for for delivery and even for our repeat section patients they probably just still try to undergo a vaginal delivery if that's at all possible. Women who have had a history of C-section have an increased risk for needing a repeat C-section with an interview and field demise they do but it's probably associated with other factors such as return or request or obstetric preference okaySo they are at risk by think what the literature says they don't necessarily have to be at risk and should be offered a trial of vaginal labor first because oftentimes it's but they don't.
+  Transcript:
+  Speaker 1
+  C-section so it may not be necessary it is probably not the first line treatment for for delivery and even for our repeat section patients they probably just still try to undergo a vaginal delivery if that's at all possible okay and do they have a women who have had a history of C-section have an increased risk for needing a repeat C-section with an interview and field demise they do but it's probably associated with other factors such as return or request or obstetric preference okay so they are at risk by think what the literature says they don't necessarily have to be at risk and should be offered a trial of vaginal labor first because oftentimes it's but they don't they might not have to get to the full nine ten centimeters to deliver a preterm fetus okay great now you mentioned earlier that molar pregnancy is another thing that we we should address which I think falls under the kind of broader category of gestational trophoblastic disease tell me about that great so gestational trophoblastic disease is really abnormal tissue that would normally form the placenta and there's actually two broad subcategories so there's your height to ditto form moles and malignant gestational trophoblastic disease which can turn to a neo-plasia so your moles are categorized either partial or full mole so partial mole ([Time 0:13:41](https://share.snipd.com/snip/f7b7e307-78eb-4acc-b38d-82f390d3417e))
+- Pregnancy News Hypertension Anemia in DIC
+  Summary:
+  They often present with your normal signs of pregnancy when you delete mentees they might have some vaginative bleeding bleeding there's no fetal cardiac activity the uterus might be abnormally large for the propogious stationary age. There's marked elevation of your beta-ACG so more than 100 200 thousands it's also associated with hyperemesis pregnancy news hypertension anemia in DIC, pulmonary hemorrhage and hypercyberoid like picture cardopelian distress.
+  Transcript:
+  Speaker 1
+  Opposite of what I remember always as a med student thinking this is the opposite of what it sounds like right so a partial mole I mean the way to remember it is a partial mole may have fetal parts and a complete mole does not but it's kind of the opposite of what it kind of seems like would make sense exactly I should think about that way but that is a good way to think about it so they often present with your normal signs of pregnancy when you delete mentees they might have some vaginative bleeding bleeding there's no fetal cardiac activity the uterus might be abnormally large for the propogious stationary age and there's marked elevation of your beta-ACG so more than 100 200 thousands it's also associated with hyperemesis pregnancy news hypertension anemia in DIC it can be associated with like hypercyberoid like like picture cardopelian distress and pulmonary hemorrhage so things you should prepare for these patients for a eventual D&C or ([Time 0:15:21](https://share.snipd.com/snip/921e4b2f-697f-4341-822b-af8af02d84b7))
+- Pregnant Patients With Lupus
+  Summary:
+  Lupus flare rather than preeclampsia okay and yeah there are some specific antibodies I think they can be tested for anti-smith antibody for example. The fetus also at risk for IUGR, prematurity, preterm delivery and the C-section rate amongst pregnant patients with lupus has been reported to be as high as 40%.
+  Transcript:
+  Speaker 2
+  Lupus flare rather than preeclampsia okay and yeah there are some specific antibodies I think they can be tested for anti-smith antibody for example that are more in line with lupus exactly and I compliment levels your complement levels will go down during a lupus flare you compared to a preeclamtic they should not really have a change in your complement great all right and then if a woman does have sle or an sle flare during pregnancy how does it affect the fetus so the effect on the fetus is not good so they have an increased rate of fetal loss and that may be due to other coexisting diseases with it such as anti-phospholipid syndrome which we'll discuss next or if they have a high disease burden within their lupus symptomatologies the fetus also at risk for IUGR, prematurity, preterm delivery and the C-section rate amongst pregnant patients with lupus has been reported to be as high as 40% which is very high there also may be ([Time 0:21:32](https://share.snipd.com/snip/c7f51eda-fe5d-4361-866e-7806df73e3f3))
+- Anti-Phospholipid Syndrome
+  Summary:
+  Anti-phospholipid syndrome is associated with autoantibodies against cell membrane lipids they really confers the patient in to be a hypercoagulable state despite some of the terminology used. These abnormal antibodies they bind a phospholipids on some cell membranes and that can activate things like platelets and they ultimately abnormally form clots. How does their propensity to clot affect the pregnancy? That's great that's a good question rather sorry so what can happen a lot of these patients can present with recurrent fetal loss especially in the later trimesters of their trimesters.
+  Transcript:
+  Speaker 2
+  Great all right that's really helpful what about other autoimmune disorders we hear a lot about for example anti-phospholipid syndrome what do we need to think about about that?
+  Speaker 1
+  Great so what we think about that is there is a primary and a secondary antiphospholipid syndrome for example when it's associated with lupus it's really a secondary phenomenon and it's associated with autoantibodies against cell membrane lipids they really confers the patient in to be a hypercoagulable state despite some of the terminology used though for example lupus anticoagulant which is an autoantibody under the spectrum of antiphospholipid syndrome is not actually an anticoagulant it's a laboratory artifact that artificially prolongs the PTT for example so it happens is these abnormal antibodies they bind a phospholipids on some cell membranes and that can activate things like platelets and they ultimately abnormally form clots.
+  Speaker 2
+  Okay so we need to worry about clotting in these patients. Correct. How does their propensity to clot affect the pregnancy?
+  Speaker 1
+  That's great that's a good question rather sorry so what can happen a lot of these patients can present with recurrent fetal loss especially in the the later trimesters of their trimesters ([Time 0:24:09](https://share.snipd.com/snip/f1bd3cdb-6cc9-4dcc-80be-8c5b7078327f))
+- Thyroid Issues During Pregnancy
+  Summary:
+  The serum T4 is going to be your basic determinant of thyroid function. Your thyroid roxyin binding globulin increases during pregnancy really because it lasts a little bit longer in terms of half life. So if you want to be really safe you have to wait 24 hours. Yeah it's going to be considerably way the 24 hours probably.
+  Transcript:
+  Speaker 1
+  That's correct and one of their new statements was for the an oxaparin in particular that if you're in this intermediate dose or you're more than 40 milligrams a day or more than 30 VID that there's no really recommended safe time interval between that 12 and 24 hours.
+  Speaker 2
+  So if you want to be really safe you have to wait 24 hours.
+  Speaker 1
+  Yeah it's going to be considerably way the 24 hours probably.
+  Speaker 2
+  Okay so you'd mentioned we'd also wanted to get into a little bit of some endocrine issues like thyroid issues. Yeah. What comes what what do we think what what thyroid issues come up in pregnancy?
+  Speaker 1
+  So really hyperthyroid is more common than hypothyroid and just for like test taking purposes also type of you know really high yield questions right the serum T4 is going to be your basic determinant of thyroid function and that your thyroid roxyin binding globulin increases during pregnancy really because it lasts a little bit longer in terms of half life. ([Time 0:31:06](https://share.snipd.com/snip/128740e3-46b5-47bc-885a-c47417045839))
+- Is Vaginal Delivery a Good Option?
+  Summary:
+  The management is the same alpha blockade blood pressure management and surgical resection either vialyphroscopic or open techniques before 24 weeks. It's a balance between causing a little bit of vasodilation in the mom but not so much that there's inadequate utopressental perfusion so it's a a balance between those two. There's no preferred route of delivery so vaginal or C section with resection at the same time or delayed resection of the pheochromocytoma is appropriate for vaginal delivery.
+  Transcript:
+  Speaker 1
+  Okay sorry so if you can if you're lucky enough to diagnose it with but before 24 weeks really the management is the same alpha blockade blood pressure management and surgical resection either vialyphroscopic or open techniques before 24 weeks. What happens if it's not found until after 24? It's not until after you want to do the same things you want to still do alpha blockade and beta blockade to normalize the pressures however as a it's a balance between causing a little bit of vasodilation in the mom but not so much that there's inadequate utopressental perfusion so it's a a balance between those two. There's no preferred route of delivery so vaginal or C section with resection at the same time or delayed resection of the pheochromocytoma is appropriate for vaginal delivery you probably certainly want to do it in in a area where you can monitor you can have invasive lines having a line and definitely early epidural energy Zia to offset those catacombs and then the recommendation or a a way to do it maybe to um dense in your epidural and on GZ blockade at the second stage so some of that agent like chloroprol cane is nice you do an ([Time 0:35:42](https://share.snipd.com/snip/9521bf68-2bad-4ed3-83cb-e156fcdf7e35))
+- The Negative Interactions Under Pregnancy
+  Summary:
+  There's increase of blood volume the maternal heart rate increases stroke volume increases o2 consumption increases and there's decreased pulmonary or reserve overall so those interactions sometimes don't really mesh well with certain cardiovascular diseases okay. What specific diseases do we think of and that can affect pregnancy right some only unfortunately they're going to touch based on three there are many many more um but one of my focus on is fairly common is super ventricular tachycardia or svt from here on out.
+  Transcript:
+  Speaker 1
+  Not really a good thing um it's associated with obese parturians um African-American race and uh late or no prenatal care and the reason why we're seeing more of these patients is because um there's more these metabolic syndrome uh uh women uh they're really pregnant and there's more women that are uh making it to vialp to um uh to childbearing age especially those with congenital heart disease and older women with pre-existing comorbidities are often becoming more pregnant due to our assisted reproductive technology so we are going to encounter this more as time goes on um and the reason why there's such a sort of negative interaction is because the physiologic changes under pregnancy are often not congruent with uh with heart disease so um for example this is going to come up again in um the next topic here that there's increase of blood volume the maternal heart rate increases stroke volume increases o2 consumption increases and there's decreased pulmonary or reserve overall so those uh interactions sometimes don't really mesh well with certain cardiovascular diseases okay and so what specific diseases do we think of and that can affect pregnancy right some only unfortunately they're going to touch based on three there are many many more um but one of my focus on is fairly common is super ventricular tachycardia or svt from here on out um the reason why tachy does really mean with our common during pregnancy is because there's a hyper dynamic circulation um there's changes in some um ion conduction channels within the heart or increase atrial stretch because of the increased blood volume there's increased in your endostolic volume and changes in autonomic tone so these patients are a little bit more susceptible to dysrhythmias um ([Time 0:41:48](https://share.snipd.com/snip/2dd88f19-3362-49d0-aa69-5a0276181559))

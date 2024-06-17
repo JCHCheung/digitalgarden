@@ -1,0 +1,51 @@
+---
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Podcasts/Stoicism and the Anaesthesia Training With Dr Tim/"}
+---
+
+# Stoicism and the Anaesthesia Training With Dr Tim
+
+![rw-book-cover](https://readwise-assets.s3.amazonaws.com/static/images/article1.be68295a7e40.png)
+
+## Metadata
+- Author: [[ABCs of Anaesthesia\|ABCs of Anaesthesia]]
+- Full Title: Stoicism and the Anaesthesia Training With Dr Tim
+- Category: #podcasts
+- URL: https://share.snipd.com/episode/b28d99e8-6d49-4992-bd5c-3ee6c24a8b63
+
+## Highlights
+- Is It Bad?
+  Summary:
+  There's plenty of times we do these case and the blood pressure drops substantially. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. We always get them through. And that makes me feel better about this current patient in front of me.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. I'm just being relieved by I'm not putting a lot of emotion into a negative state saying, you know, the worst thing to do would be to constantly be, what is it like, like Eor and, you know, in Winnie the Pooh, just everything is bad. ([Time 0:10:37](https://share.snipd.com/snip/eb494f82-8286-49d7-bff6-2deff68343ca))
+- Is It Bad?
+  Summary:
+  Fractured knobs are often sick as patients. They're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. There's plenty of times we do these case and the blood pressure drops substantially. But it's also one of those things that proves to us how capable you know, patients physiology is.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. ([Time 0:10:37](https://share.snipd.com/snip/bd28afc3-c5d4-440a-bd18-a7ad5a0f8145))
+- Is It Bad?
+  Summary:
+  Fractured knobs are often sick as patients. They're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. There's plenty of times we do these case and the blood pressure drops substantially. But it's also one of those things that proves to us how capable you know, patients physiology is.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. ([Time 0:10:37](https://share.snipd.com/snip/76a00074-47c8-4271-8f3c-10154efab8b6))
+- Is It Bad?
+  Summary:
+  Fractured knobs are often sick as patients. They're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. There's plenty of times we do these case and the blood pressure drops substantially. But it's also one of those things that proves to us how capable you know, patients physiology is.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. ([Time 0:10:37](https://share.snipd.com/snip/757d7d7f-cf01-4518-a4a8-7b94499b25bf))
+- Is It Bad?
+  Summary:
+  Fractured knobs are often sick as patients. They're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. There's plenty of times we do these case and the blood pressure drops substantially. But it's also one of those things that proves to us how capable you know, patients physiology is.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. ([Time 0:10:37](https://share.snipd.com/snip/6be0b3b4-5e81-41ef-810b-c23289b250fb))
+- Is It Bad?
+  Summary:
+  Fractured knobs are often sick as patients. They're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. There's plenty of times we do these case and the blood pressure drops substantially. But it's also one of those things that proves to us how capable you know, patients physiology is.
+  Transcript:
+  Speaker 2
+  Yeah, a bit of relief. Yeah, I was thinking about this in terms of kind of fractured knobs are often sick as patients. And you know, they're obviously very high-perooperative mortality, but generally they're pretty okay in the theater. But there's plenty of times we do these case and the blood pressure drops substantially. And you know, it is probably more just one of the more high-intensity things that we do. But it's also one of those things that proves to us how capable you know, patients physiology is, but also how capable the nurses and the team is of keeping someone alive during that difficult time. So when I get a tricky patient, I just reflect back on, oh, I've seen worse. I've seen some of the sickest patients and they always get through. We always get them through. And that makes me feel better about this current patient in front of me. So, yeah, it wasn't. Actually, one of the other things, so this, you got to not fall into the trap, I think, with its negative visualization, but not putting so much effort and pessimism about it. It's almost like, I know it is bad, and I'm not being upset by that. ([Time 0:10:37](https://share.snipd.com/snip/131c921e-76e8-442b-94d8-f79f9e630013))

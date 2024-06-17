@@ -1,0 +1,28 @@
+---
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section/"}
+---
+
+# Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section
+
+![rw-book-cover](https://ars.els-cdn.com/content/image/1-s2.0-S2058534919X00128-cov150h.gif)
+
+## Metadata
+- Author: [[sciencedirect.com\|sciencedirect.com]]
+- Full Title: Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section
+- Category: #articles
+- Document Tags: [[obstetrics\|obstetrics]] 
+- URL: https://www.sciencedirect.com/science/article/pii/S2058534919301490
+
+## Highlights
+- Loss of sensation to touch up to and including the T5 [dermatome](https://www.sciencedirect.com/topics/medicine-and-dentistry/dermatome) is required to prevent pain reliably during Caesarean section. ([View Highlight](https://read.readwise.io/read/01gs9rd9t8s91gswevgn563y25))
+- Guidelines from the Royal College of Anaesthetists (RCoA) recommend that the decision-to-delivery interval for ≥90% of Categories 1 and 2 Caesarean sections should be ≤30 and 75 min, respectively ([View Highlight](https://read.readwise.io/read/01gs9rr7cctergdfh2k9q328tw))
+- guidelines from the RCoA state that the rate of conversion from neuraxial to general anaesthesia for Category 1 and Categories 1–3 Caesarean section overall should be <15% and 5%, respectively ([View Highlight](https://read.readwise.io/read/01gs9rsb8k95c331vzq50yff99))
+- [Breakthrough pain](https://www.sciencedirect.com/topics/medicine-and-dentistry/breakthrough-pain) in labour could be a marker of a poorly functioning epidural or may signify dysfunctional labour ([View Highlight](https://read.readwise.io/read/01gs9s1sbpnqy23re4q1g3ez8q))
+- The epidural test dose can be defined as the administration of a small amount of LA with or without adrenaline in order to determine whether or not the epidural catheter is located in a blood vessel or the [subarachnoid space](https://www.sciencedirect.com/topics/medicine-and-dentistry/subarachnoid-space) ([View Highlight](https://read.readwise.io/read/01gs9sdq45ebqdac662xenec6b))
+- Multicompartmental block is the misplacement of multi-orifice epidural catheters where a distal opening lies in a blood vessel or the subarachnoid space while a proximal orifice simultaneously retains access to the [epidural space](https://www.sciencedirect.com/topics/medicine-and-dentistry/epidural-space) ([View Highlight](https://read.readwise.io/read/01gs9sfhnpdm6pdtkegyftt4q1))
+- It can be added as 2 ml bicarbonate 8.4% to 20 ml lidocaine with 2 ml of the resulting mixture then discarded, but should not be administered with bupivacaine, levobupivacaine, or ropivacaine as precipitation can occur ([View Highlight](https://read.readwise.io/read/01gsenkeahvz5cxknp46preyaw))
+- it has been demonstrated that the loss of sensation to touch up to and including T5, between the nipple line and the xiphisternum, is the most reliable modality to prevent pain during Caesarean section ([View Highlight](https://read.readwise.io/read/01gsep0a8j97e6pw3cqs817b7n))
+- Given that the afferent nerves carrying [sensation of pain](https://www.sciencedirect.com/topics/medicine-and-dentistry/sensation-of-pain) from the pelvic organs are thought to accompany the sympathetic nerves and enter the spinal cord around T10 to L1 and that the neuraxial blockade is required to be much higher than T10, other non-conventional nerve pathways must be involved in the transmission of pain in Caesarean section ([View Highlight](https://read.readwise.io/read/01gsep59dykaegzbky50db92bv))
+- It could be that some of the pelvic afferent nerves follow the sympathetic nerves through the intra-abdominal plexuses and the greater [splanchnic nerve](https://www.sciencedirect.com/topics/medicine-and-dentistry/splanchnic-nerve) to reach the spinal cord as high as T5. It may be that the [visceral pain](https://www.sciencedirect.com/topics/medicine-and-dentistry/visceral-pain) is not of pelvic origin but originates from other intra-abdominal structures innervated by the afferent nerves which enter the spinal cord at T5 ([View Highlight](https://read.readwise.io/read/01gsep75y1cj6h6baj3xfsa29g))
+- In neuraxial blockade, loss of sensation to cold is found to be many [dermatomes](https://www.sciencedirect.com/topics/medicine-and-dentistry/dermatome) higher than the level at which sensation to sharp pinprick is lost and this, in turn, is observed to be several dermatomes higher than loss of sensation to touch. Nevertheless, there is not a constant relationship between the dermatomal levels assessed by these three sensory modalities with significant variation within and between individuals ([View Highlight](https://read.readwise.io/read/01gsepbtx7pgeqfv31zevfq800))
+- It can be challenging to perform a spinal in the context of a failed labour epidural conversion because of the associated difficulty in obtaining [CSF](https://www.sciencedirect.com/topics/medicine-and-dentistry/cerebrospinal-fluid). This could be attributable to the collapse of the [subarachnoid space](https://www.sciencedirect.com/topics/medicine-and-dentistry/subarachnoid-space) below the termination of the spinal cord secondary to the volume effect of the epidural bolus. Spinal anaesthesia performed within 30 min of a failed labour epidural top-up has been associated with an increased risk of failure and may reflect the erroneous assumption that the free flow of clear fluid must be CSF rather than previously injected LA within the epidural space ([View Highlight](https://read.readwise.io/read/01gsepmtjr3da0bz19rmseap97))

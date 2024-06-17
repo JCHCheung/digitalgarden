@@ -1,0 +1,30 @@
+---
+{"dg-publish":true,"permalink":"/Reference notes/Readwise/Articles/Anaesthesia for Major Spinal Surgery/"}
+---
+
+# Anaesthesia for Major Spinal Surgery
+
+![rw-book-cover](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/ceaccp/14/4/10.1093/bjaceaccp/mkt041/2/m_mkt04101.jpeg?Expires=1737114831&Signature=bCJvuVMq1gobtcbYkqPYI0Fr9XWbn7ZdtSVEmKYwQfBG2k6PA6lHiPvLqu9ewxbg7UJPZJ6ALKqpbd~pPjaXqgt7WcfBjx6zxmEQgN53EaYc7SkMvMCpFibtm3SPflviiV-2ZABjUyBUz5CW0qWeccQLvFMu0JxNzdKzMOpJybdswJy5tQifaxjVK0BVyhHPIHyUwuAwStsoqvU1u2OISZ1YwENHxuH77tk91-7r4qJcSFFm76gcPLCMWfJp4gvl2rinqgjZpv8wR4kt9d2kdxJ3hE7-owVPyUQVRc1zqU45QQdXLJ9hawHa0IrOkizNno9WmCSrPGEVItIEH5ndrw__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA)
+
+## Metadata
+- Author: [[OUP Academic\|OUP Academic]]
+- Full Title: Anaesthesia for Major Spinal Surgery
+- Category: #articles
+- URL: https://academic.oup.com/bjaed/article/14/4/147/293508?login=false
+
+## Highlights
+- An enlarging bladder may cause increased intraoperative blood loss as pressure is transmitted to the valveless epidural veins. ([View Highlight](https://read.readwise.io/read/01gq6g9y0wfq3k1q3y7mhjsmy4))
+- If the arms remain by the patient's side, then the thumbs should be positioned pointing down to avoid over pronation. ([View Highlight](https://read.readwise.io/read/01gq6gcj5729axmb333gpca4z3))
+- Care is required to avoid pressure on the abdomen as this will be transmitted to the venous system and cause increased bleeding from the valveless epidural veins. ([View Highlight](https://read.readwise.io/read/01gq6gd74yg6dpwndqxy1hbh5a))
+- The radius of curvature of the Wilson frame can be altered by means of a winding mechanism. This allows a reduction in the lumbar lordosis thus improving posterior surgical access. However, the incidence of ischaemic optic neuropathy may be increased compared with other prone-positioning devices. This is postulated to be attributable to the dependant position of the head. ([View Highlight](https://read.readwise.io/read/01gqy7c7ebk90f3gf1nc8gs09x))
+- Remifentanil is a commonly used agent because of its short context sensitive half life and its negligible effect on intraoperative evoked responses. ([View Highlight](https://read.readwise.io/read/01gqy7fqmk9mf09g8e0z2gpxwj))
+- Deformity surgery and decompressive procedures for metastatic tumours are particularly prone to major haemorrhage. ([View Highlight](https://read.readwise.io/read/01gqy7gbrzh1my4vrppay1sx6y))
+- Gabapentin and pregabalin have been shown to reduce postoperative pain and there is evidence that this effect may continue and reduce the development of chronic pain after surgery. Pregabalin has the more consistent bioavailability. Published doses of pregabalin vary from 150 to 600 mg before surgery followed by 50–300 mg for up to 14 days. ([View Highlight](https://read.readwise.io/read/01gqy7nrcy0ak3anxyec6n8vee))
+- Postoperative visual loss (POVL) occurs in 1/60 000–1/125 000 operations.5 Spinal surgery has the highest incidence of POVL. ([View Highlight](https://read.readwise.io/read/01gqy7pgxq7tnwkv6h04g1h9zg))
+- Documentation of these eye checks throughout the course of long procedures has been advised by the ASA. Though the frequency was not suggested, an interval of 30 min would seem appropriate ([View Highlight](https://read.readwise.io/read/01gqy7qw4qprkn3qcp43q8sc21))
+- Other possible causes of POVL include cortical ischaemia and haemorrhage into a cerebral tumour. ([View Highlight](https://read.readwise.io/read/01gqy7w4pa1czj9kbmz2g2ks8h))
+- Throughout the operation, neurophysiology technicians assess two types of evoked responses consisting of somatosensory evoked potentials (SSEPs) and motor evoked potentials (MEPs). The spinal cord may be at risk if the amplitude of SSEPs are reduced to <50% of baseline values. MEPs are generally described as being present or absent. ([View Highlight](https://read.readwise.io/read/01gqy8db8vaycwx7mw3ben43tm))
+- Somatosensory evoked potentials
+  These are small-amplitude potentials measured over the sensory cortex or via epidural electrodes from stimuli applied to the posterior tibial nerves. SSEPs are transmitted via the posterior columns of the spinal cord, in the territory of the posterior spinal arteries which supply the posterior third of the cord. As they are of low amplitude, they are affected by basal muscle tremor and the signal-to-noise ratio is improved by increasing the depth of muscle relaxation. Their use is not significantly affected by therapeutic concentrations of anaesthetic vapours. ([View Highlight](https://read.readwise.io/read/01gqy8h1cyn2ag26x9rs1vz2t8))
+- More recently intraoperative assessment of MEPs has been used. A series of short-duration constant current stimuli of 300–700 V is applied to the motor cortex and measured via needle electrodes inserted typically in the tibialis anterior, abductor hallucis, and vastus medialis muscles. Other needle electrodes are placed in selected small muscles of the hands for reference. MEPs rely on corticospinal tract integrity, which lies in the territory of the anterior spinal artery. MEPs, therefore, complement SSEPs in their assessment of spinal cord function. In contrast to SSEPs, MEPs are large-amplitude potentials and are incompatible with profound muscle relaxation. Neuromuscular blocking agents are, therefore, best given by infusion and the dose optimized in consultation with the neurophysiology technicians. ([View Highlight](https://read.readwise.io/read/01gqy8jj4e8b6ghntmnf8m5xc2))
+- All anaesthetic vapours reduce MEP amplitude in a dose-dependent manner. Anaesthetic vapour concentrations more than 0.5 MAC are generally not compatible with reliable monitoring. As a result, total i.v. anaesthesia with propofol is the anaesthetic technique of choice when assessing MEPs. However, propofol also causes a dose-dependent depression of cortically evoked responses of a smaller magnitude, which affects the reliability of neurophysiological monitoring especially when baseline responses are initially small. ([View Highlight](https://read.readwise.io/read/01gqy8m05jh91nzftxct6fx1rg))
