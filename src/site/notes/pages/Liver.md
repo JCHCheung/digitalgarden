@@ -70,8 +70,10 @@ during acute haemorrhage: ==ortho-sympathetic mediated vasoconstriction== â†’ â†
 - ==Phase 1 & 2 metabolism==
 	- ==glycuronoconjugation & detoxification==
 
+[[Knowledge/Medicine/Hepatic resection\|Hepatic resection]]
 [Hepatic resection](../Knowledge/Medicine/Hepatic%20resection.md)
 
 ___
 # References
+[[Reference notes/Readwise/Articles/Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy\|Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy]]
 [Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy](../Reference%20notes/Readwise/Articles/Major%20Liver%20Surgery%20and%20the%20Anesthesiologist%20Towards%20a%20Proactive%20Strategy.md)
