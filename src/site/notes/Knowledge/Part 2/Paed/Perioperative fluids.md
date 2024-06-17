@@ -81,7 +81,7 @@ extracellular space larger in small children relative to BW, proportion of blood
 	- 10ml/kg/h of glucose 1%, 2% & 4% in LR equivalent in newborns
 		- 2-4% dextrose fluids more effective at preventing untoward events
 
-![](/img/user/assets/Pasted image 20240615164325.png)
+![image](https://pub-23ef68458aab474daba6b39d398a7a32.r2.dev/afb25c7d9a5f895aa86a9a6c12b91334.png)
 ## [Paediatric preoperative fasting](Paediatric%20preoperative%20fasting.md)
 
 
