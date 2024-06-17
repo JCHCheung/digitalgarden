@@ -70,7 +70,7 @@ Among the available treatment options are phosphodiesterase-5 inhibitors, prosta
 ## Hepatorenal syndrome
 Hepatorenal syndrome (HRS, now HRS - AKI), is characterized by intense renal vasoconstriction, requires careful evaluation with hepatologists, and involves treatment with terlipressin and albumin
 
-Before the development of new AKI criteria[77], HRS was divided into two types, with different prognoses, type 1 having the worst outcome
+Before the development of new AKI criteria, HRS was divided into two types, with different prognoses, type 1 having the worst outcome
 
 Serum creatinine may present interpretative concerns in sarcopenic patients and/or in the hyperbilirubinemic cirrhotic patient, limitations to be considered when assessing preoperative renal function. Often, blood urea nitrogen (BUN) is discrepant with serum creatinine (elevated BUN vs “normal” creatinine), and might provide a more accurate description of renal dysfunction
 
@@ -93,7 +93,7 @@ key objectives of intraoperative anesthesia management include
 - appropriate ==fluid== balance
 - minimize ==blood loss==
 
-Evidence suggests that [[ischaemic preconditioning\|ischaemic preconditioning]] and even “postconditioning” (adaptation to ischemic injury and remodulation of ischemia-reperfusion syndrome) can be facilitated by [volatile anaesthetics](volatile%20anaesthetics.md) like [[sevoflurane\|sevoflurane]], isoflurane, and [[desflurane\|desflurane]]
+Evidence suggests that [[ischaemic preconditioning\|ischaemic preconditioning]] and even “postconditioning” (adaptation to ischemic injury and remodulation of ischemia-reperfusion syndrome) can be facilitated by [[Knowledge/Medicine/volatile anaesthetics\|volatile anaesthetics]] like [[sevoflurane\|sevoflurane]], isoflurane, and [[desflurane\|desflurane]]
 
 ## haemodynamics
 common causes of hemodynamic instability include 
@@ -106,6 +106,8 @@ common causes of hemodynamic instability include
 	- can occur if ↓↓CVP / extreme hypovolemia during exposure of large venous vessels
 
 ### Pringle manouevre
+![image](https://pub-23ef68458aab474daba6b39d398a7a32.r2.dev/3e4831c1aa2ef3c15ff8564d77480822.png)
+
 - occlusion of hepatic vascular pedicle
 	- = portal triad
 	- ==inflow== occlusion
@@ -154,8 +156,75 @@ widespread adoption of TEB has been limited by concerns about perioperative hemo
 
 there is growing interest in alternative techniques such as continuous local infiltration with wound catheters, “single shot” subarachnoid analgesia with local anesthetics and intrathecal opioids, and patient-controlled analgesia
 
+# Posthepatectomy liver failure
+most feared Cx w/i first 30 postop days
+mortality 30-40%
+### Risk factors
+- patient factors
+	- pre-op comorbidities
+	- pre-existing liver disease
+	- liver functional reserve
+- surgical factors
+	- extent of resection
+	- long [[Knowledge/Medicine/Hepatic resection#Pringle manouevre\|Pringle Manouevre]]
+## Pathophysiology
+'physiological' regeneration of liver after hepatectomy triggered by ↑[[pages/Portal vein\|PV]] ∵ ↑ portal inflow
+(rapid regeneration occurs w/i 2-4 wks in normal liver even w/ resection up to 75% of native liver mass)
+
+- ↓ liver volume → ↑vascular ==shear stress== & ↑ intrahepatic ==vascular resistance==
+- overwhelming ↑ in portal pressure : 'small-for-flow' syndrome
+- excessive shear stress → ==inflammatory== response
+	- release of [[nitric oxide\|nitric oxide]] & [[cytokines\|cytokines]]
+	- inhibit liver regeneration
+	- parenchymal necrosis
+	- hepatocyte apoptosis
+- microvascular thrombosis + endothelial dysfunction → impaired hepatic microcirculation
+- surgical trauma + ischaemia-reperfusion injury → inflammatory storm
+	- ==intra-op== factors favouring ==ischaemia-reperfusion injury==
+		- hepatic venous congestion
+			- fluid overload
+			- right ventricular dysfunction
+			- ↑ airway pressure
+		- arterial hypotension
+		- ↑ blood loss
+		- prolonged periods of vascular occlusion
+
+### 50-50 criteria on POD5 by Belghiti (2005)
+- bili >50umol/L
+- PT <50%
+- validated in 2009
+- predict mortality
+The International Study Group of Liver Surgery (ISGLS, 2011)[147] provides the reference standard for PHLF, using three degrees of severity (A, B, C) based on INR prolongation, bilirubin increase, elevated lactate, and hepatic encephalopathy levels. Level C PHLF, requiring artificial support of organ failures, mandates ICU observation, level B being considered for HDU observation; mortality rate (absent in group A) is 12% for level B, reaching 54% for level C
+
+The onset of PHLF can vary, typically occurring days to weeks post-surgery, with normalization expected within 1 to 3 weeks
+
+## PHLF treatment
+- treat '==remediable==' causes e.g. 
+	- [[obstructive jaundice\|obstructive jaundice]]
+	- vascular obstruction
+	- infection / sepsis
+		- perihepatic collection / abscess
+- general ==supportive== measures:
+	- haemodynamics
+		- crystalloid / albumin for [[hypovolaemia\|hypovolaemia]]
+		- [[noradrenaline\|noradrenaline]] / [[terlipressin\|terlipressin]] for vasodilation
+	- if advanced [[hepatic encephalopathy\|hepatic encephalopathy]]:
+		- early intubation + protective ventilation
+	- early [[CRRT\|CRRT]]
+	- [[TEG\|TEG]] to ↓ overuse of [[Knowledge/Medicine/Fresh Frozen Plasma\|FFP]]
+- ==interventions==
+	- if excessive portal flow:
+		- splenic artery embolisation
+		- [[octreotide\|octreotide]]
+		- [[beta blocker\|beta blocker]]
+			- ↓ [[pages/Portal vein\|PV]] pressure
+		- [[N-acetylcysteine\|N-acetylcysteine]] controversial
+- ==extracorporeal== treatment
+	- inadequate evidence for routine use
+	- if used : serve as bridge to [[liver transplantation\|liver transplantation]]
+- [[liver transplantation\|liver transplantation]]
 
 ___
 # References
-[Perioperative management for hepatic resection surgery](Reference%20notes/zotero/Patel.etal2022.md)
-[Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy](../../Reference%20notes/Readwise/Articles/Major%20Liver%20Surgery%20and%20the%20Anesthesiologist%20Towards%20a%20Proactive%20Strategy.md)
+[[Reference notes/Readwise/Books/Perioperative Management for Hepatic Resection Surgery\|Perioperative Management for Hepatic Resection Surgery]]
+[[Reference notes/Readwise/Articles/Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy\|Major Liver Surgery and the Anesthesiologist Towards a Proactive Strategy]]
