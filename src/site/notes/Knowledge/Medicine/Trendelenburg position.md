@@ -13,9 +13,8 @@ Tags:
 
 Effect on [Cerebral Perfusion Pressure](Cerebral%20Perfusion%20Pressure.md)
 
-![](/img/user/assets/Pasted image 20220905000943.png)
-![](/img/user/assets/Pasted image 20220905001001.png)
-
+![image](https://pub-23ef68458aab474daba6b39d398a7a32.r2.dev/670e893d577768a880a86ed0cb6a02d9.png)
+![image](https://pub-23ef68458aab474daba6b39d398a7a32.r2.dev/37e5429758dcf37404acf19c5c5343ff.png)
 
 
 
