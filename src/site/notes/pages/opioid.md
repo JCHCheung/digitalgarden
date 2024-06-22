@@ -24,9 +24,20 @@ Both manifest clinically as need for ↑opioid dose to achieve same analgesic ef
 Dose-effect relationship: Tolerance shifts to ==right== (but dose not alter pain sensitivity). OIH shifts ==down== ∵ ↑pain sensitivity
 
 ### OIH
+also read: [[pages/Remifentanil#Remifentanil induced hyperalgesia\|Remifentanil#Remifentanil induced hyperalgesia]]
 Definition: a state of paradoxically ↑ response to noxious stimuli, presumably as a result of nociceptive sensitisation, caused by an exposure to opioids
 
-### Possible mechanisms
+a "normal adaptive response" counteracting perturbations from exogenous opioids?
+
+a/w nearly all types of opioids, w/ dose-dependent hypersensitivity e.g.
+- morphine-6 glucuronide
+- [[methadone\|methadone]]
+- phenanthrene-based class opioids
+- synthetic opioids-piperidines
+- NOT w/ [[oxymorphone\|oxymorphone]]
+
+OIH incidence & degree of hyperalgesia ∝ opioid ==dose== & exposure ==duration==
+#### Possible mechanisms
 predominance of pronociceptive mechanisms e.g. activation of [[NMDA\|NMDA]] system
 on > off-neurons w/i ==rostro-ventral medulla==
 - descending spinal facilitation
@@ -35,8 +46,40 @@ on > off-neurons w/i ==rostro-ventral medulla==
 - µ opioid receptor ligand → "off" state
 ↑ [[dynorphin\|dynorphin]] in spinal cord & primary afferents after noxious stimuli activate release of [[calcitonin gene related peptide\|calcitonin gene related peptide]]
 
-#### Cellular mechanisms
-remifen
+[[pages/Remifentanil\|Remifentanil]]: activates peripheral & spinal neurons differently, which presumably results in hyperalgesia developing at different time point (early vs late) during post-infusion period.
+
+Table 1 - Cellular mechanisms potentially responsible for the development of OIH
+
+| μ-Opioid signaling          | ↑cAMP & protein, kinase A  <br>Protein kinase C, C-Jun N-terminal kinase  <br>β-Arrestin-2  <br>SRC kinase                             |
+| --------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
+| Transcriptional mechanisms  | cAMP response element-binding protein  <br>Mammalian target of rapamycin complex 1                                                     |
+| Pronociceptive ion channels | [[NMDA\|NMDA]] receptors  <br>Transient receptor potential vanilloid channels                                                                |
+| Microglia                   | Toll-like receptor 4  <br>P2X4 and P2X7 purinergic receptors  <br>Brain-derived neurotrophic factor  <br>Scaffold protein β-arrestin-2 |
+#### Prevention & treatment
+##### General
+↓ opioid dose & gradual dose tapering
+NMDA antagonists
+- ketamine
+	- 5 µg/kg/min infusion effective for [[pages/Remifentanil\|Remifentanil]]
+- dextromethorphan
+[[pages/Buprenorphine\|Buprenorphine]] 
+- κ-receptor agonism
+- δ-receptor downregulation
+- 25 µg/h for 24h for RIH
+COX-2 inhibitor
+- [[Parecoxib\|Parecoxib]]
+	- effective w/ early treatment 30min before application of remi
+	- concomitant administration ineffective?
+α2 agonists - [[Dexmedetomidine\|Dexmedetomidine]]
+[[methadone\|methadone]]
+[[MgSO4\|MgSO4]]
+##### RIH
+Gradual taper of [[pages/Remifentanil\|Remifentanil]] infusion rate (vs abrupt stop)
+addition of [[Propofol\|Propofol]] to [[pages/Remifentanil\|Remifentanil]] may ↓OIH
+- ? ∵ inhibitory effects on [[NMDA\|NMDA]] receptors
+- effect on supraspinal [[GABA\|GABA]]-A receptors
+- even sub-hypnotic dose may help
+
 
 ### Opioid tolerance
 

@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags:[Regional](../../Medicine/Regional%20Anaesthesia.md)
+Tags: [[Knowledge/Medicine/Regional Anaesthesia\|Regional]]
 
 # External oblique intercostal plane block
 
