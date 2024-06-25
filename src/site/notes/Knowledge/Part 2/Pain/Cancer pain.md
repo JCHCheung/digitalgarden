@@ -42,7 +42,7 @@ Tags: [[Oncology\|Oncology]], [[pain\|pain]]
 	- ↓ firing threshold
 ### Treatment related
 #### Surgical
-- [[pages/chronic post-surgical pain\|CPSP]]
+- [[Knowledge/Part 2/Pain/chronic post-surgical pain\|CPSP]]
 #### [[chemotherapy\|chemotherapy]]
 ADR from chemo → ==psychological== morbidity → worsen pain state
 ##### Chemotherapy induced peripheral neuropathy (CIPN)
