@@ -12,11 +12,19 @@ Tags: [[Knowledge/Medicine/pharmacology\|pharmacology]], [[Knowledge/Medicine/Pa
 # Developmental pharmacology
 
 
-Growth follows three typical curves. Rapid growth occurs during the first 3 years, followed by a slowly decelerating childhood component and a rapid growth phase in adolescence
+Growth follows three typical curves
+- Rapid growth occurs during the first 3 years
+- slowly decelerating childhood component
+- rapid growth phase in adolescence
 
-The neonatal cardiac output at term may exceed 200 ml/kg/minute, almost three times that of adults, and by 2 years, still 50% more than that of an adult
-
-Changes in cardiac index (a measure related to body surface area) tend to mirror the growth curves, and not surprisingly, increases in cardiac index affect drug distribution and elimination clearance. High hepatic extraction drugs with perfusion limited clearance are particularly affected by these changes
+neonatal [[CO\|CO]] 
+- at term may > 200 ml/kg/minute
+	- almost 3x that of adults
+- by 2 years, still 50% > adult
+Cardiac index:
+- Changes of CI mirror the growth curves
+- ↑CI affect drug distribution & elimination clearance
+	- ==↑ hepatic extraction== drugs w/ ==perfusion limited clearance== are particularly affected
 
 As growth rates decline, children over the age of 3 years behave more like little adults, and predicting pharmacokinetic variation becomes easier.
 
@@ -99,7 +107,57 @@ hepatic metabolic capacity is a function of both the liver mass and the concentr
 
 Each CYP450 isoform has a unique maturation pattern. CYP3A7 is the predominant active isoform in the neonatal period, and there is a progressive shift from CYP3A7 to CYP3A4 during the first year of life
 
+Drug metabolizing enzyme ontogeny classifies into three groups: (i) Enzymes that are mature and expressed at their highest levels in the fetus and decline after birth; (ii) enzymes that are mature at birth and maintain constant expression; and (iii) enzymes with low expression in the fetus and increase expression after birth. The third category, the largest, has the most profound impact on developmental metabolism
+
+In humans, only seven isoenzymes (CYP1A2, CYP2A6, CYP2B6, CYP2C9, CYP2C19, CYP2D6 CYP3A4) are responsible for the metabolism of more than 95% of drugs
+
+CYP3A accounts for the metabolism of at least 50% of therapeutic drugs given
+
+Overall, the CYP-dependent metabolic capacity at birth is 30–60% of adults
+
+Exposure to benzyl alcohol may result in the so-called ‘gasping syndrome’
+grey-baby syndrome with chloramphenicol administration
+
+At birth, CYP1A2, responsible for caffeine-3-demethylation, has negligible activity. The half-life of caffeine may exceed 100 hours in premature neonates compared with 5 hours in older children. CYP1A2 activity increases quickly after birth with age, resulting in a decrease in half-life and an increase in clearance
+
+CYP3A4 is essentially functionally immature at birth. Enzyme activity rapidly increases at 2 weeks of age, approaches 40% of adult values by the end of the neonatal period, and reaches adult levels by about 3 years
+
+Neonates rely on CYP3A4 for clearance of levobupivacaine and midazolam and CYP1A2 for ropivacaine clearance. The reduced metabolic clearance of local anaesthetic results in potentially increased toxicity in this age group and necessitates reduced infusion rates
+
+Midazolam, in neonates, is also cleared by CYP3A4, and the immature enzyme may result in an increased duration of sedation
+
+Table 2. Developmental expression of selected drug-metabolizing enzymes in the neonate
+
+| Enzyme | Drug examples | Comments                                                                                                                                                                                          |
+| ------ | ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| CYP1A2 | Caffeine      | Absent-to-low expression in the neonate<br>activity reaches 50% of adult values by 1 year of age<br>formula-fed infants have faster maturation                                                    |
+|        | Paracetamol   |                                                                                                                                                                                                   |
+|        | Ropivacaine   |                                                                                                                                                                                                   |
+| CYP2D6 | Lignocaine    | Usually present at 1-week postmenstrual age<br>only 20% of adult activity at 1 month<br>Variable because of ==genetic polymorphism==: up to 47% of 3–12 years cannot convert codeine to morphine  |
+|        | Codeine       |                                                                                                                                                                                                   |
+|        | Tramadol      |                                                                                                                                                                                                   |
+| CYP2C9 | Ibuprofen     |                                                                                                                                                                                                   |
+| CYP3A4 | Midazolam     | Low expression at birth<br>increases to 30% adult by 1 month<br>almost fivefold increase by 3 months<br>full adult activity reached by 6 months<br>formula-fed infants may have faster maturation |
+|        | Bupivacaine   |                                                                                                                                                                                                   |
+| CYP2E1 | Paracetamol   | Approximately 10% of adult activity in the neonate<br>steadily increases to 30% by 3–12 months<br>reaches adult activity between 1 - 10 years of age                                              |
+Phase II reactions or conjugation reactions result in the coupling of a drug or its metabolite to another molecule. The conjoining molecule binds to the reactive site exposed by or added to by the phase I reaction
+
+Phase II products are usually hydrophilic and readily eliminated from the body.
+
+Conjugation reactions are reactions that include glucuronidation, sulphation, methylation or acetylation
+
+Phase II enzyme maturation occurs at a less predictable rate than phase I reactions
+
+Some phase II pathways like sulphate conjugation are mature at birth and can compensate for other immature pathways. Other pathways like acetylation, glycation, glucuronidation are immature.
+
+Sulphate conjugation is an active metabolic pathway in neonates for morphine and paracetamol.
+
+Glucuronidation activity for morphine reaches adult values by the end of the first year of life with subsequent increases in clearance. Glucuronidation is the predominant metabolic pathway for propofol however, contributions by CYP2A6, CYP2B6 and CYP2C9 accelerate its maturation profile
+
+## Elimination
+
 
 
 ___
 # References
+[[Reference notes/Readwise/Articles/Developmental Pharmacology\|Developmental Pharmacology - BJA Ed]]

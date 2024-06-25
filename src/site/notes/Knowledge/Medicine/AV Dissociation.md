@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [ECG](ECG.md)
+Tags: [[Knowledge/Medicine/ECG\|ECG]]
 
 # AV Dissociation
 ## 3 Causes:
@@ -28,4 +28,4 @@ Tags: [ECG](ECG.md)
 
 ___
 # References
-[A Woman in Her 50s With Chest Pain and Lightheadedness and Anterior Subendocardial Ischemia](../../Reference%20notes/Readwise/Articles/A%20Woman%20in%20Her%2050s%20With%20Chest%20Pain%20and%20Lightheadedness%20and%20Anterior%20Subendocardial%20Ischemia.md)
+[[Reference notes/Readwise/Articles/A Woman in Her 50s With Chest Pain and Lightheadedness and Anterior Subendocardial Ischemia\|A Woman in Her 50s With Chest Pain and Lightheadedness and Anterior Subendocardial Ischemia]]
