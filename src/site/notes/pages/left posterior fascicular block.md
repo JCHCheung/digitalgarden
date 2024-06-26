@@ -1,26 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/pages/left anterior fascicular block/"}
+{"dg-publish":true,"permalink":"/pages/left posterior fascicular block/"}
 ---
 
 
-202406252242
+202406270457
 
 Status: 
 
 Tags: [[Knowledge/Medicine/ECG\|ECG]]
 
-# left anterior fascicular block
-- left axis deviation
-- qR aVL & I
-- rS II & III
-a/w [[poor R wave progression\|poor R wave progression]]
-controversy on whether possible to Dx LAFB + LVH concurrently
+# left posterior fascicular block
+right axis deviation
+lead I & aVL : rS
+III : qR
+
+less common than [[pages/left anterior fascicular block\|LAFB]] ∵ broad bundle more resistant to damage
+need to r/o other causes of RAD first
 
 Guideline definition
-1. Frontal plane axis between 45° and 90°. 
-2. qR pattern in lead aVL. 
-3. R-peak time in lead aVL of 45 ms or more. 
-4. QRS duration less than 120 ms
+1. Frontal plane axis between 90° and 180° in adults. 
+	- Owing to the more rightward axis in children up to 16 years of age, this criterion should only be applied to them when a distinct rightward change in axis is documented. 
+2. rS pattern in leads I and aVL. 
+3. qR pattern in leads III and aVF. 
+4. QRS duration less than 120 ms.
 
 
 

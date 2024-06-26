@@ -23,7 +23,13 @@ can occur in any [[pages/supraventricular tachyarrhythmia\|supraventricular tach
 ==refractory period== of ventricle related to duration of preceding ==RR interval==
 → aberrant conduction if atrial impulse arrives during refractory period
 
-when aberrancy occurs in groups, can resemble [[pages/Ventricular tachycardia\|VT]] or PVC
+when aberrancy occurs in groups, can resemble non-sustained [[pages/Ventricular tachycardia\|VT]] or PVC
+
+## Fisch Criteria
+- A relatively long cycle immediately ahead of the cycle terminated by the aberrant QRS complex
+- RBBB from aberrancy with a normal orientation of the initial QRS vector: concealed propagation of aberration is possible, such that it is possible to have a series of wide QRS supraventricular beats
+- Irregular coupling of aberrant QRS complexes
+- Absence of a full compensatory pause, as full compensatory pauses favor a ventricular origin.
 
 Treatment: ==rate control==
 
