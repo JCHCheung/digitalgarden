@@ -21,8 +21,9 @@ Tags: [[Cardiology\|Cardiology]]
 - **ECG Signs of RV strain**
     - Rightward axis (look for large S wave in lead I)
         - S1Q3 or S1Q3T3
-	        - (McGinn White pattern)
+	        - (==McGinn White== pattern)
 	        - not sensitive or specific
+		        - unless ==large S wave==
     - Conduction delays and repolarization abnormalities
         - New RBBB or incomplete RBBB
         - Look for tall R waves in V1
@@ -36,19 +37,22 @@ Tags: [[Cardiology\|Cardiology]]
 Co, et al. _J Emerg Med_ 2017 (PMID: [27742402](https://pubmed.ncbi.nlm.nih.gov/27742402/)) – identified the most common ECG changes in patients with known PE when comparing their ECGs with previous ECGs
 - 285 PEs diagnosed on CTA (62% segmental, 20% in main pulmonary artery, 8% saddle)
 	- **No ECG changes ~ 24%**
-	- **T wave inversion ~ 34%**
+	- **TWI ~ 34%**
+		- sensitive V1-V3
+		- specific: also III, aVF
 	- T wave flattening ~ 30%
 	- **Sinus tachycardia ~ 27%**
 	- Rightward axis ~ 11%
 	- ST segment changes ~ 9%
 	- **S1Q3T3 ~ 4%**
 
-ECG findings in PE associated with hemodynamic instability and increased morbidity and mortality:
+### ECG findings a/w hemodynamic instability & ↑ morbidity + mortality:
 - TWIs in right precordial leads
 - ST-segment elevation and depression
     - Especially STE in V1-V2, aVR, III
 - Signs of right heart strain (right axis deviation, tall R wave in V1)
-- Tachycardia (sinus, afib/flutter)
+- Tachycardia 
+	- (sinus, afib/flutter)
 
 
 
@@ -56,3 +60,5 @@ ECG findings in PE associated with hemodynamic instability and increased morbidi
 ___
 # References
 McGinn S, White PD. Acute cor pulmonale resulting from pulmonary embolism: its clinical recognition. JAMA. 1935; 7104:1473–80. https://doi.org/10.1001/jama.1935.02760170011004
+
+Co I, Eilbert W, Chiganos T. New Electrocardiographic Changes in Patients Diagnosed with Pulmonary Embolism. _J Emerg Med_. 2017;52(3):280-285. PMID: [27742402](https://pubmed.ncbi.nlm.nih.gov/27742402/)

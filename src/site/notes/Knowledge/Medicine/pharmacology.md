@@ -12,7 +12,7 @@ Tags:
 # pharmacology
 
 
-
+[[pages/pharmacokinetics\|pharmacokinetics]]
 
 
 
@@ -20,3 +20,4 @@ Tags:
 
 ___
 # References
+

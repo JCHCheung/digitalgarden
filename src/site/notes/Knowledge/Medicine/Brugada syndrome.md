@@ -61,7 +61,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
 - More commonly present around the time of the arrhythmia
     - Fever/hot ambient temperature can bring out the ECG findings
 
-[[hyperkalaemia\|hyperkalaemia]] as mimic
+[[pages/hyperkalaemia\|hyperkalaemia]] as mimic
 ## Diagnosis
 ### Shanghai score
 ![](https://i.imgur.com/B8LgaEe.png)

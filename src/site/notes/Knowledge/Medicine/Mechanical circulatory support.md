@@ -11,7 +11,7 @@ Tags: [Cardiology](Cardiology),
 
 # Mechanical circulatory support
 [IABP](Intra-aortic%20balloon%20pump.md)
-
+[[pages/ECMO\|ECMO]]
 
 
 

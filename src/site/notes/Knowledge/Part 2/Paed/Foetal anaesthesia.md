@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [Paed](../../Medicine/Paediatrics.md), [obstetrics](obstetrics)
+Tags: [Paed](../../Medicine/Paediatrics.md), [Obstetrics](../../../pages/Obstetrics.md)
 
 # Foetal anaesthesia
 

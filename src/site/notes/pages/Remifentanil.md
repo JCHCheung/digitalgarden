@@ -15,7 +15,7 @@ Tags:[[Knowledge/Medicine/pharmacology\|pharmacology]]
 
 ## Remifentanil induced hyperalgesia
 - = [[pages/opioid#OIH\|opioid#OIH]] ?
-- research complicated by [[pharmacokinetics\|pharmacokinetics]]
+- research complicated by [[pages/pharmacokinetics\|pharmacokinetics]]
 	- rapid clearance → ↓ effect quickly → ↑ pain abruptly
 		- can be misinterpreted as RIH
 	- remi often used in dose higher than required

@@ -87,7 +87,7 @@ V1 notched S
 	- Discontinue any QT prolonging medications and raise serum potassium levels to high-normal range, while looking for underlying causes
 
 ## Mimics:
-metabolic ([[hyperkalaemia\|hyperkalaemia]]) / tox (Na channel blocker):
+metabolic ([[pages/hyperkalaemia\|hyperkalaemia]]) / tox (Na channel blocker):
 - Suspect when…
     - HR is too slow (< 130 bpm) or
     - QRS is too wide (> 200 ms)

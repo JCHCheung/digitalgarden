@@ -22,6 +22,10 @@ Tags: [[Oncology\|Oncology]], [[pain\|pain]]
 	- colorectal 
 - Age <65
 ## Cause of pain in cancer patients:
+- [[Knowledge/Part 2/Pain/Cancer pain#Tumour related\|#Tumour related]]
+- [[Knowledge/Part 2/Pain/Cancer pain#Treatment related\|#Treatment related]]
+- [[Knowledge/Part 2/Pain/Cancer pain#Associated conditions\|#Associated conditions]]
+- [[Knowledge/Part 2/Pain/Cancer pain#unrelated conditions\|#unrelated conditions]]
 ### Tumour related
 - local mass effect
 - cancer-induced bone pain
@@ -41,6 +45,10 @@ Tags: [[Oncology\|Oncology]], [[pain\|pain]]
 	- ↑ excitability at transcriptional or post-translational level
 	- ↓ firing threshold
 ### Treatment related
+- [[Knowledge/Part 2/Pain/Cancer pain#Surgical\|#Surgical]]
+- [[Knowledge/Part 2/Pain/Cancer pain#chemotherapy\|#chemotherapy]]
+- [[Knowledge/Part 2/Pain/Cancer pain#Radiotherapy RT\|#Radiotherapy RT]]
+- [[Knowledge/Part 2/Pain/Cancer pain#Adjunctive therapy\|#Adjunctive therapy]]
 #### Surgical
 - [[Knowledge/Part 2/Pain/chronic post-surgical pain\|CPSP]]
 #### [[chemotherapy\|chemotherapy]]

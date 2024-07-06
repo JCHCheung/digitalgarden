@@ -10,7 +10,7 @@ Status:
 Tags: [fluid](fluid), [Paed](../../Medicine/Paediatrics.md)
 
 # Background
-4-2-1 formula of Holliday and Segar
+4-2-1 formula of ==Holliday and Segar==
 
 # Hypotonic maintenance solution
 - originally suggested based on calculation
@@ -60,6 +60,15 @@ Tags: [fluid](fluid), [Paed](../../Medicine/Paediatrics.md)
 
 moderate certainty evidence from Cochrane that in children >6mo maintenance rate of 30ml/kg/h ↓ [PONV](../../Medicine/Postoperative%20nausea%20and%20vomiting.md) in ASA 1 to 2 for ambulatory or short LOS procedures
 
+### Electrolyte requirement
+- Na 3mmol/kg/day
+- K 2mmol/kg/day
+- Ca 0.3mmol/kg/day (normal) to 1mmol/kg/day (deficiency state)
+
+### Basal glucose requirement
+- infants & children: 3-5mg/kg/min
+- adults: 2-3mg/kg/min
+D10 for hypoglycaemia: 2.5-5ml/kg over 3-5min
 # Fluid type
 - isosmotic / **isotonic**
 	- effective osmolality similar to plasma (**288**mOsm/kgH2O)
