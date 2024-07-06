@@ -11,7 +11,7 @@ Tags: [[Knowledge/Medicine/Regional Anaesthesia\|Regional Anaesthesia]]
 
 # Neuraxial block
 - [[spinal anaesthesia\|spinal anaesthesia]]
-- [[epidural anaesthesia\|epidural anaesthesia]]
+- [[pages/epidural anaesthesia\|epidural anaesthesia]]
 
 
 
