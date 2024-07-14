@@ -109,17 +109,66 @@ but 7cm inside ↑ unilateral block
 - ↑ pain relief
 - ↑ motor block
 - ↑ duration
-
-## Patchy / unilateral block
-?top up before shift out
-
 ## Epidural opioid
+↓ LA dose
+↓ motor block → ↓ instrumental delivery
+↑ maternal satisfaction
 ### epidural fentanyl
 - bolus : segmental (spinal)
 - infusion : non-segmental (supraspinal) analgesia
 - 100mcg = dose threshold for effect
 - 3x potency: epidural vs IV
+## Patchy / unilateral block
 
+### Reasons for failed block
+- [[pages/Plica mediana dorsalis\|Plica mediana dorsalis]] in epidural space could lead to asymmetric block
+
+?top up before shift out
+
+## Failure of EA / labour neuraxial analgesia
+definition varies & unclear e.g.
+- lack of analgesia after 45min
+- accidental dural puncture
+- need of replacing epidural catheter or abandoning the technique
+- maternal dissatisfaction at FU visit
+### Risk factors
+#### Patient factor
+- high BMI
+- landmark not visible / palpable
+- Hx of previous failure
+- poor patient cooperation
+- longer labours
+	- ? from migration
+- pre-procedural pain
+- breakthrough pain
+- poor communication
+- ? high fetal head station & oxytocin use
+	- ∵ ↑ pelvic resistance for fetal head → ↑ pain
+#### Procedure related factors
+- non-obs anaesthetists
+- epidural catheter design
+	- mono-orificial catheter
+	- catheter stiffness
+- chosen method of LOR
+### Conversion failure (of EA for C section)
+defined as
+- need for GA
+- conversion to another type of anaes (including SA)
+
+major factors:
+- ↑ number of top-up during labour
+- ↑ urgency of CS
+- non-obs anaesthetists
+
+Conversion failure implies other risks:
+- high spinal
+	- typically recommended to wait for a lapse of ==30min== before SA
+- GA
+- [[Knowledge/Medicine/Difficult airway\|Difficult airway]]
+## lignocaine
+- more likely to cause tachyphylaxis & neurotoxicity
+- NOT recommended for labour analgesia
+- 1st choice for top-up or for emergency CS
 
 ___
 # References
@@ -134,4 +183,6 @@ ___
 Boon, J.M., Abrahams, P.H., Meiring, J.H. and Welch, T. (2004), **Lumbar puncture:** Anatomical review of a clinical skill. Clin. Anat., 17: 544-553. [https://doi.org/10.1002/ca.10250](https://doi.org/10.1002/ca.10250)
 
 [[Reference notes/Readwise/Articles/Paramedian Lumbar Epidural Technique  Why You Should Adopt It - Jeremy Collins, MD\|Paramedian Lumbar Epidural Technique  Why You Should Adopt It - Jeremy Collins, MD]]
+
+[Failed epidural for labor: what now? - Minerva Anestesiologica 2017 November;83(11):1207-13 - Minerva Medica - Journals](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2017N11A1207)
 

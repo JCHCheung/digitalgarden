@@ -7,9 +7,9 @@
 
 Status: #idea
 
-Tags:
+Tags: [[neuro\|neuro]], [[equipment\|equipment]]
 
-# electroencephalogram
+# Electroencephalogram
 
 
 

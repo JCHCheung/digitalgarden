@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[equipment\|equipment]], [[Airway\|Airway]]
+Tags: [[equipment\|equipment]], [[pages/Airway\|Airway]]
 
 # Equipment for airway management
 

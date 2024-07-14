@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[Airway\|Airway]]
+Tags: [[pages/Airway\|Airway]]
 
 # bougie
 

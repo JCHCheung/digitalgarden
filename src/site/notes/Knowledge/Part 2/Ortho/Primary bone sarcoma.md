@@ -96,9 +96,9 @@ Orthopaedic surgery is associated with a near three-fold increase in the risk fo
 
 Recent work has not supported an association between the short-term use of non-steroidal anti-inflammatory drugs (NSAIDs) and delayed bone healing
 
-Tunnelling and removal of the catheters within the first 72 h of insertion should be considered to minimise the risk of infection in immunocompromised patients where daily inspection is mandatory.
+Tunnelling and removal of the catheters within the first 72 h of insertion should be considered to minimise the risk of infection in ==immunocompromised== patients where daily inspection is mandatory.
 
-There is a high incidence of venous thromboembolism after surgery for PBS that may be almost six-fold higher compared with primary soft tissue sarcoma
+There is a high incidence of venous ==thromboembolism== after surgery for PBS that may be almost six-fold higher compared with primary soft tissue sarcoma
 
 Musculoskeletal tumour, chemotherapy, major surgery and reduced mobility are independent risk factors for venous thromboembolism
 
