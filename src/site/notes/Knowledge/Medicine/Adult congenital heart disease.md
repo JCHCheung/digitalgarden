@@ -16,7 +16,7 @@ Tags: [Echo](Echocardiography.md),
 [atrial septal defect](atrial%20septal%20defect)
 
 ## Moderate defects
-[[Tetralogy of Fallot\|Tetralogy of Fallot]]
+[[Reference notes/Readwise/Articles/Tetralogy of Fallot\|Tetralogy of Fallot]]
 [[Ebstein's anomaly\|Ebstein's anomaly]]
 
 ## Severe defects

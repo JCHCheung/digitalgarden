@@ -91,6 +91,43 @@ metabolic ([[pages/hyperkalaemia\|hyperkalaemia]]) / tox (Na channel blocker):
 - Suspect when…
     - HR is too slow (< 130 bpm) or
     - QRS is too wide (> 200 ms)
+
+# VT in cardiac arrest
+Amiodarone
+- 300mg IV bolus
+- 150mg prn
+- ROSC → 1mg/min infusion
+Procainamide
+- probably not useful in cardiac arrest
+- long time to establish loading dose
+ß blockers
+- propranolol
+	- non-selective
+	- 1-3mg IV Q5min
+	- Max 5mg
+- esmolol
+	- ß1 selective
+	- 500µg/kg IV bolus
+	- 50-300µg/kg infusion
+- (metoprolol)
+	- probably not as effective
+	- 5mg IV Q5min
+	- Max 15mg
+Lignocaine
+- 1-1.5mg/kg bolus
+- 2nd dose: 0.5-1mg/kg
+- ROSC → 1-4mg/min infusion
+- may be first line in 2 scenarios:
+	- acute cardiac ischaemia
+	- [[TdP\|TdP]]
+		- ∵ shorten QT interval
+Mg
+- 2g IV MgSO4 upfront
+- [[TdP\|TdP]] → 4g IV bolus followed by infusion
+	- target Mg 2.2-2.5mg/dL
+
 ___
 # References
 [[Reference notes/Readwise/Articles/The Vt Score 100% Specificity for Vt\|The Vt Score 100% Specificity for Vt]]
+
+[VT Storm (Part 1) (youtube.com)](https://www.youtube.com/watch?v=_9tum4vcZOs&ab_channel=CriticalCareNow)

@@ -105,7 +105,7 @@ by the ==shunt== and ==direction of flow==.
 	- ↓ pulmonary blood flow
 	- cyanosis
 	- e.g.
-		- [[Tetralogy of Fallot\|Tetralogy of Fallot]]
+		- [[Reference notes/Readwise/Articles/Tetralogy of Fallot\|Tetralogy of Fallot]]
 		- [[pulmonary atresia\|pulmonary atresia]]
 		- tricuspid atresia
 		- [[Ebstein's anomaly\|Ebstein's anomaly]]

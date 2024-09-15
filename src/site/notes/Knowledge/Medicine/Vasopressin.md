@@ -28,6 +28,7 @@ release vWF & F8
 ### V3 = V1b
 pituitary stimulation → ACTH production
 
+(cross reactivity with [[oxytocin\|oxytocin]])
 ## Analogues
 Vials: ==synthetic== vasopressin
 ### Desmopressin
@@ -38,9 +39,9 @@ synthetic analogue of ADH
 for DI, vWF & F8
 ### Terlipressin
 V1 specificity
-- V1/V2 ratio ~2.2
+- V1/V2 ratio ~==2.2==
 	- (cf vasopressin 1:1)
-long acting
+longer acting
 labelled for HRS
 # Trauma
 AVERT shock trial

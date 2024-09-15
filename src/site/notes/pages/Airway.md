@@ -16,7 +16,11 @@ Tags:
 
 [[pages/Airway in trauma\|Airway in trauma]]
 
+Blind nasal intubation
 
+Digital intubation
+
+[[pages/Awake intubation\|Awake intubation]]
 
 ___
 # References

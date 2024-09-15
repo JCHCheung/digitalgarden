@@ -27,6 +27,6 @@ ___
 # References
 [[Reference notes/Readwise/Books/Physiology-Guided Resuscitation Monitoring and Augmenting Perfusion during Cardiopulmonary Arrest\|Physiology-Guided Resuscitation Monitoring and Augmenting Perfusion during Cardiopulmonary Arrest]]
 [[Reference notes/Readwise/Books/Haemodynamics of Cardiac Arrest and Resuscitation\|Haemodynamics of Cardiac Arrest and Resuscitation]]
-[[../Reference notes/Readwise/Podcasts/Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-CPR, Calling the Code\|Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-CPR, Calling the Code]]
+[[Reference notes/Readwise/Podcasts/Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-Cpr, Calling the Code\|Ep 170 Cardiac Arrest – PoCUS Integration, Communication Strategies, E-CPR, Calling the Code]]
 [[Reference notes/Readwise/Articles/The 3-Phase Model of Sudden Cardiac Arrest\|The 3-Phase Model of Sudden Cardiac Arrest]]
 [[Reference notes/Readwise/Articles/Improving Vasopressor Use in Cardiac Arrest\|Improving Vasopressor Use in Cardiac Arrest]]
