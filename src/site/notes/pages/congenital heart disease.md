@@ -113,7 +113,7 @@ by the ==shunt== and ==direction of flow==.
 	- mixed pulmonary / systemic blood flow
 	- cyanosis
 		- e.g.
-			- transposition of great arteries
+			- [[pages/Transposition of great arteries\|Transposition of great arteries]]
 			- truncus arteriosus
 			- total anomalous pulmonary venous drainage
 			- double outlet right ventricle

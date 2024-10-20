@@ -11,6 +11,8 @@ Tags: [[pages/Airway\|Airway]]
 
 # Awake intubation
 
+Consideration: difficult to ==intubate== vs difficult to ==ventilate==
+if difficult to ventilate → awake intubation
 ## 6 Steps
 1. explanation
 2. desication
@@ -46,6 +48,15 @@ Tags: [[pages/Airway\|Airway]]
 Lignocaine bioavailability (Takaenoki 2016)
 - atomised: 80.1%
 - mucosal applied: 55.9%
+
+toxic plasma level 5µg/ml
+seizure at 8µg/ml
+cardiac arrest at 20µg/ml
+
+(glycopyrrolate ==doubles== the duration of LA)
+## Nebulisation
+lignocaine at least 4% (work better on mucosa)
+6-8L/min ok (flow too high leads to tiny particles → go to lung instead of UAW)
 
 ## Sedation
 > When planning sedation for awake intubation, the patient typically requires less midazolam than the anesthesiologist

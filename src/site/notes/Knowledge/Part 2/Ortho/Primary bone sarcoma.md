@@ -85,7 +85,7 @@ three key tenets:
 
 topical fibrin sealants serve as an effective haemostat
 
-The National Institute for Health and Care Excellence recommends the use of [[Knowledge/Medicine/tranexamic acid\|TXA]] when anticipated blood loss exceeds 500 ml and in complex cases such as pelvic surgeries.
+The National Institute for Health and Care Excellence recommends the use of [[Knowledge/Medicine/Tranexamic acid\|TXA]] when anticipated blood loss exceeds 500 ml and in complex cases such as pelvic surgeries.
 
 Intraoperative cell salvage with a leukocyte depletion filter to remove malignant cells offers a technique to reduce allogenic blood transfusion, thereby mitigating the associated immune modulation and systemic inflammatory response
 

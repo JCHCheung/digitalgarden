@@ -70,7 +70,7 @@ Controversial
 in several initial RCT
 - ↓ rebleeding
 - longer-term use (wks) a/w ↑ DCI
-a recent large, adequately powered RCT that investigated ultra-early and short-term treatment w/ [[Knowledge/Medicine/tranexamic acid\|TXA]] found no difference in outcome
+a recent large, adequately powered RCT that investigated ultra-early and short-term treatment w/ [[Knowledge/Medicine/Tranexamic acid\|TXA]] found no difference in outcome
 → antifibrinolytic use has since been widely abandoned
 
 while potential benefits of fibrinolytic treatment of intraventricular haemorrhage have been demonstrated for primary intracranial haemorrhage, there are no data to support this for the aSAH population

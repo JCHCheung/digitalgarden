@@ -13,7 +13,7 @@ Tags: [[Knowledge/Medicine/Regional Anaesthesia\|Regional Anaesthesia]]
 - [[spinal anaesthesia\|spinal anaesthesia]]
 - [[pages/epidural anaesthesia\|epidural anaesthesia]]
 
-
+[[pages/Structural spinal pathology and neuraxial anaesthesia\|Structural spinal pathology and neuraxial anaesthesia]]
 
 
 

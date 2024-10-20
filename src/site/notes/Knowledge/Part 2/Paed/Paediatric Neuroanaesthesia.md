@@ -18,7 +18,7 @@ Cerebral autoregulation appears to be intact at birth in healthy patients
 - [[induced hypotension\|induced hypotension]]
 - [[acute normovolaemic haemodilution\|acute normovolaemic haemodilution]]
 - [[antifibrinolytics\|antifibrinolytics]]
-	- [TXA](../../Medicine/tranexamic%20acid.md)
+	- [TXA](../../Medicine/Tranexamic%20acid.md)
 	- [[epsilon aminocaproic acid\|epsilon aminocaproic acid]]
 
 # Regional techniques

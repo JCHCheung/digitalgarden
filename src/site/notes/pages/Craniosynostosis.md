@@ -179,7 +179,7 @@ During periods of hemodynamic instability, it is important to remain vigilant to
 - cell salvage
 - acute normovolaemic haemodilution
 - [[antifibrinolytics\|antifibrinolytics]]
-	- [[Knowledge/Medicine/tranexamic acid\|TXA]]
+	- [[Knowledge/Medicine/Tranexamic acid\|TXA]]
 - transfusion strategy
 Controlled hypotension is a method employed in a range of surgical situations involving anesthesia to decrease blood loss; however, its role in craniosynostosis surgery is limited because of the concerns regarding cerebral perfusion pressure
 

@@ -13,6 +13,7 @@ Tags:
 
 [[pages/Airway\|Airway]]
 
+[[pages/Traumatic cardiac arrest\|Traumatic cardiac arrest]]
 ## Pre-briefing
 Benefits
 - shared mental model

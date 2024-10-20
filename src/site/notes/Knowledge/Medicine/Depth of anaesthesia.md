@@ -12,7 +12,7 @@ Tags:
 # Depth of anaesthesia
 [[Knowledge/Medicine/eyelash reflex\|eyelash reflex]]
 
-[[Knowledge/Medicine/bispectral index\|BIS]]
+[[Knowledge/Medicine/Bispectral index\|BIS]]
 
 
 

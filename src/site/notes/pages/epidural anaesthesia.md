@@ -7,7 +7,7 @@
 
 Status: 
 
-Tags: [[pages/Obstetrics\|Obstetrics]]
+Tags: [[pages/Obstetrics\|Obstetrics]], [[Knowledge/Medicine/Neuraxial block\|Neuraxial block]]
 
 # EA
 
@@ -169,6 +169,8 @@ Conversion failure implies other risks:
 - more likely to cause tachyphylaxis & neurotoxicity
 - NOT recommended for labour analgesia
 - 1st choice for top-up or for emergency CS
+
+[[pages/Inadvertent dural puncture\|Inadvertent dural puncture]]
 
 ___
 # References

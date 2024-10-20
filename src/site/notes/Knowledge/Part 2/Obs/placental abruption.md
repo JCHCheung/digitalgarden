@@ -169,11 +169,11 @@ FFP and platelet transfusions, although often unnecessary, are more likely to be
 
 When guided by haemostatic testing, many patients who have an obstetric haemorrhage do not require FFP
 
-#### [[Knowledge/Medicine/tranexamic acid\|TXA]]
+#### [[Knowledge/Medicine/Tranexamic acid\|TXA]]
 - given at a dose of 1g over 10 min IV
 	- as supportive treatment in haemorrhage of >1000 ml
-- fibrinogen replacement more effective when given AFTER [[Knowledge/Medicine/tranexamic acid\|TXA]]
-- 2nd dose [[Knowledge/Medicine/tranexamic acid\|TXA]] should be considered once 30min passed + ongoing haemorrhage
+- fibrinogen replacement more effective when given AFTER [[Knowledge/Medicine/Tranexamic acid\|TXA]]
+- 2nd dose [[Knowledge/Medicine/Tranexamic acid\|TXA]] should be considered once 30min passed + ongoing haemorrhage
 
 When blood loss is >1500 ml → a repeat dose of antibiotic must be given
 

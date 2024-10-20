@@ -146,7 +146,7 @@ SGA
 nasal preparation
 - beware of arrhythmogenic & hypertensive effects from agents used
 
-I.V. [[Knowledge/Medicine/tranexamic acid\|TXA]] at induction has been shown to minimise bleeding and improve surgical field quality
+I.V. [[Knowledge/Medicine/Tranexamic acid\|TXA]] at induction has been shown to minimise bleeding and improve surgical field quality
 
 ## Monitoring
 Foley: indicated in complex cases or if DI anticipated

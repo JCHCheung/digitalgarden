@@ -154,7 +154,7 @@ Non-pharmacological adjuncts:
 - physiotherapy
 - hypnotherapy
 - music therapy
-[[Prehabilitation\|Prehabilitation]] is the process of optimising physical and psychological health before an invasive treatment such as major surgery. It has been demonstrated to decrease postoperative pain and increase functional levels.
+[[pages/Prehabilitation\|Prehabilitation]] is the process of optimising physical and psychological health before an invasive treatment such as major surgery. It has been demonstrated to decrease postoperative pain and increase functional levels.
 ### Pharmacological
 ==ESMO== (European Society for Medical Oncology) clinical practice guidelines: 
 

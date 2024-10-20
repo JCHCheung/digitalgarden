@@ -18,7 +18,8 @@ Tags:
 
 Blind nasal intubation
 
-Digital intubation
+[[pages/Digital intubation\|Digital intubation]]
+- small chin
 
 [[pages/Awake intubation\|Awake intubation]]
 
