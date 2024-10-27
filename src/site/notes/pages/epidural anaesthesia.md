@@ -12,7 +12,7 @@ Tags: [[pages/Obstetrics\|Obstetrics]], [[Knowledge/Medicine/Neuraxial block\|Ne
 # EA
 
 ## Sitting vs lateral
-Benefits of lateral position
+Benefits of ==lateral== position
 - ↓ patient movement
 - feasible even in cord prolapse / fetal presenting part
 - ↓ blood in needle / catheter in lateral or lateral Trendelenberg
@@ -95,6 +95,7 @@ problems w/ lignocaine
 conc. LA impairs ambulation for at least 60min
 
 ## Saline prior to catheter
+= epidural saline pre-distention
 ↓ blood in catheter (evidence w/ older nylon catheter)
 ? ↓benefit w/ new (= softer) catheters
 
@@ -150,27 +151,92 @@ definition varies & unclear e.g.
 	- mono-orificial catheter
 	- catheter stiffness
 - chosen method of LOR
-### Conversion failure (of EA for C section)
-defined as
-- need for GA
-- conversion to another type of anaes (including SA)
-
-major factors:
-- ↑ number of top-up during labour
-- ↑ urgency of CS
-- non-obs anaesthetists
-
-Conversion failure implies other risks:
-- high spinal
-	- typically recommended to wait for a lapse of ==30min== before SA
-- GA
-- [[Knowledge/Medicine/Difficult airway\|Difficult airway]]
 ## lignocaine
 - more likely to cause tachyphylaxis & neurotoxicity
 - NOT recommended for labour analgesia
 - 1st choice for top-up or for emergency CS
 
 [[pages/Inadvertent dural puncture\|Inadvertent dural puncture]]
+
+# Conversion to anaesthesia for CS
+## History
+Between 1970 and 1998 in the USA, almost one-fifth of maternal deaths associated with obstetric anaesthesia were related to the administration of epidural anaesthesia, many following the administration of bupivacaine 0.75% and the result of inadvertent high or total spinal blockade or LA systemic toxicity (LAST)
+
+## Drug used
+The ==fastest== onset of sensory blockade when converting the epidural is achieved using ==lidocaine 2% and adrenaline== (epinephrine)
+
+==Fentanyl== further ↓ onset time
+
+The addition of ==ropivacaine== 0.75% to the epidural top-up solution reduces the need for supplementation during surgery.
+
+It is possible that the fentanyl contained in the epidural solution administered for labour could have already produced a near-maximal effect, explaining the observed difference in the ==emergency== compared with ==elective== Caesarean section.
+
+Bicarbonate can facilitate the alkalinisation of the epidural top-up solution, increasing the unionised fraction of lidocaine available to cross the neuronal membrane and possibly increasing the lipid solubility of fentanyl and its penetration into both the spinal cord and systemic circulation
+
+## Evaluation of block
+Loss of sensation to touch up to and including the ==T5 dermatome== is required to prevent pain reliably during Caesarean section.
+
+Given that the afferent nerves carrying sensation of pain from the pelvic organs are thought to accompany the sympathetic nerves and enter the spinal cord around T10 to L1 and that the neuraxial blockade is required to be much higher than T10, other non-conventional nerve pathways must be involved in the transmission of pain in Caesarean section
+
+It could be that some of the pelvic afferent nerves follow the sympathetic nerves through the intra-abdominal plexuses and the greater splanchnic nerve to reach the spinal cord as high as T5. It may be that the visceral pain is not of pelvic origin but originates from other intra-abdominal structures innervated by the afferent nerves which enter the spinal cord at T5
+
+In neuraxial blockade, loss of sensation to cold is found to be many dermatomes higher than the level at which sensation to sharp pinprick is lost and this, in turn, is observed to be several dermatomes higher than loss of sensation to touch. Nevertheless, there is not a constant relationship between the dermatomal levels assessed by these three sensory modalities with significant variation within and between individuals
+
+Test dose: controversial
+"every top-up dose is a test dose"
+
+The decision of where to best initiate the labour epidural conversion continues to be debated and is influenced by many factors including the local logistics and urgency of Caesarean section
+### Conversion failure (of EA for C section)
+defined as
+- need for GA
+- conversion to another type of anaes (including SA)
+
+==major== factors:
+- ↑ number of top-up during labour
+- ↑ urgency of CS
+- non-obs anaesthetists
+==inconsistent== factors
+- ↑ BMI
+- cervical dilatation at commencement of EA
+- epidural vs CSE
+- ↑ duration of EA
+
+Conversion failure implies other risks:
+- high spinal
+	- typically recommended to wait for a lapse of ==30min== before SA
+- GA
+- [[Knowledge/Medicine/Difficult airway\|Difficult airway]]
+
+guidelines from the RCoA state that the rate of conversion from neuraxial to GA for Category 1 and Categories 1–3 Caesarean section overall should be <15% and 5%, respectively
+
+Breakthrough pain in labour could be a marker of a poorly functioning epidural or may signify dysfunctional labour
+
+| Management                              | Drawbacks and risks                                                                                                    |
+| --------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| CSE                                     | Longer time to perform                                                                                                 |
+|                                         | Difficult to choose the optimal intrathecal dose of LA                                                                 |
+|                                         | Untested epidural catheter if subsequent epidural dosing needed                                                        |
+|                                         | Potential of LAST with epidural administration of additional LA                                                        |
+|                                         |                                                                                                                        |
+| General anaesthesia                     | Accidental awareness                                                                                                   |
+|                                         | Complications associated with aspiration and failed intubation                                                         |
+|                                         | Greater maternal and neonatal sedation                                                                                 |
+|                                         | Increased risk of poor uterine tone and blood loss                                                                     |
+|                                         | Related to depressed Apgar scores at 5 min, the need for bag mask ventilation and admission to neonatal intensive care |
+|                                         | Increased postoperative pain and PONV                                                                                  |
+|                                         | Impairment of early breast feeding and maternal–neonatal bonding                                                       |
+|                                         |                                                                                                                        |
+| Manipulation or replacement of epidural | Longer time to perform                                                                                                 |
+|                                         | Potential of LAST with epidural administration of additional LA                                                        |
+|                                         |                                                                                                                        |
+| Spinal                                  | Difficulty in obtaining cerebrospinal fluid and increased risk of block failure                                        |
+|                                         | Difficult to select the optimal intrathecal dose of LA                                                                 |
+|                                         | Decreases in the intrathecal dose of LA further increase the risk of block failure                                     |
+|                                         | Potential of high or total spinal with standard or modestly reduced intrathecal dose of LA                             |
+
+It can be challenging to perform a spinal in the context of a failed labour epidural conversion because of the associated difficulty in obtaining CSF. This could be attributable to the collapse of the subarachnoid space below the termination of the spinal cord secondary to the volume effect of the epidural bolus. Spinal anaesthesia performed within 30 min of a failed labour epidural top-up has been associated with an increased risk of failure and may reflect the erroneous assumption that the free flow of clear fluid must be CSF rather than previously injected LA within the epidural space
+
+
 
 ___
 # References
@@ -187,4 +253,6 @@ Boon, J.M., Abrahams, P.H., Meiring, J.H. and Welch, T. (2004), **Lumbar punctu
 [[Reference notes/Readwise/Articles/Paramedian Lumbar Epidural Technique  Why You Should Adopt It - Jeremy Collins, MD\|Paramedian Lumbar Epidural Technique  Why You Should Adopt It - Jeremy Collins, MD]]
 
 [Failed epidural for labor: what now? - Minerva Anestesiologica 2017 November;83(11):1207-13 - Minerva Medica - Journals](https://www.minervamedica.it/en/journals/minerva-anestesiologica/article.php?cod=R02Y2017N11A1207)
+
+[[Reference notes/Readwise/Articles/Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section\|Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section - BJA Ed]]
 

@@ -32,7 +32,7 @@ for many years it was presumed that neonates and infants had underdeveloped nerv
 	- ? ∵ opioid sparing
 - ? avoiding airway manipulation
 	- if no GA as backup
-- [[ERAS\|ERAS]]
+- [[pages/Early recovery after surgery\|../../../pages/Early recovery after surgery]]
 	- ↓LOS
 	- cost saving
 	- ↑gut mobility

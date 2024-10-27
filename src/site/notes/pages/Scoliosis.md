@@ -12,8 +12,11 @@ Tags:
 # Scoliosis
 [restrictive lung disease](restrictive%20lung%20disease)
 
-
-
+## Associated topics
+[[pages/Patient blood management\|PBM]]
+[[pages/Intra-op neuro-monitoring\|Intra-op neuro-monitoring]]
+wake up test
+[[Post-operative visual loss\|Post-operative visual loss]]
 
 # Cases
 https://glass.health/read/upSrskraKi/

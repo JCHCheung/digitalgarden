@@ -7,11 +7,11 @@
 
 Status: #idea
 
-Tags:
+Tags: [[pages/Airway\|Airway]]
 
 # Difficult airway
 
-
+[[pages/Video laryngoscopy\|Video laryngoscopy]]
 
 
 

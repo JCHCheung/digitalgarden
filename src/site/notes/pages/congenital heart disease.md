@@ -255,7 +255,7 @@ neuraxial: need vasopressor to counteract ↓SVR
 	- esp patient on anticoagulation
 - [[pages/Cardiac arrest\|cardiac arrest]]
 	- high risk features a/w peri-op arrest
-		- [[cardiomyopathy\|cardiomyopathy]]
+		- [[pages/Cardiomyopathy\|Cardiomyopathy]]
 		- cardiac failure
 		- balanced or single circulation
 		- arrhythmias

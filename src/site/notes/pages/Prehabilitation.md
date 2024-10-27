@@ -10,6 +10,11 @@ Status:
 Tags: 
 
 # Prehabilitation
+Main components:
+- medical optimisation
+- physical exercise
+- nutritional support
+- psychological support
 
 ==1 MET = 3.5ml/kg/min==
 
