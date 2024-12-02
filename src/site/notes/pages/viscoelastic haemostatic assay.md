@@ -40,3 +40,5 @@ The addition of ==abciximab== (a platelet inhibitor) allows isolation of ==fibri
 ___
 # References
 [[Reference notes/Readwise/Books/Point-of-Care Viscoelastic Testing\|Point-of-Care Viscoelastic Testing]]
+
+[Viscoelastic testing: an illustrated review of technology and clinical applications - PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC9903681/)

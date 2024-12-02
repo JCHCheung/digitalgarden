@@ -158,6 +158,7 @@ definition varies & unclear e.g.
 
 [[pages/Inadvertent dural puncture\|Inadvertent dural puncture]]
 
+# [[pages/Epidural hyperthermia\|Epidural hyperthermia]]
 # Conversion to anaesthesia for CS
 ## History
 Between 1970 and 1998 in the USA, almost one-fifth of maternal deaths associated with obstetric anaesthesia were related to the administration of epidural anaesthesia, many following the administration of bupivacaine 0.75% and the result of inadvertent high or total spinal blockade or LA systemic toxicity (LAST)

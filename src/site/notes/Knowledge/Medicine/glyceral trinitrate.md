@@ -14,7 +14,7 @@ Tags: [[Knowledge/Medicine/pharmacology\|pharmacology]]
 vs [[Knowledge/Medicine/Sodium nitroprusside\|Sodium nitroprusside]]
 
 
-## As [[pages/Tocolytics\|../../pages/Tocolytics]]
+## As [[Knowledge/Part 2/Obs/Tocolytics\|../Part 2/Obs/Tocolytics]]
 - bolus dose:
 	- GTN 50-100µg IV
 		- 1ml GTN 1mg/ml + 19ml NS 

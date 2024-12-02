@@ -15,8 +15,7 @@ Tags: [[Knowledge/Medicine/Regional Anaesthesia\|Regional Anaesthesia]]
 
 [[pages/Structural spinal pathology and neuraxial anaesthesia\|Structural spinal pathology and neuraxial anaesthesia]]
 
-
-
+[[pages/Intracranial pathology and neuraxial anaesthesia in obstetrics\|Intracranial pathology and neuraxial anaesthesia in obstetrics]]
 
 
 ___

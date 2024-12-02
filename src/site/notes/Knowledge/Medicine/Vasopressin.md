@@ -28,7 +28,7 @@ release vWF & F8
 ### V3 = V1b
 pituitary stimulation → ACTH production
 
-(cross reactivity with [[oxytocin\|oxytocin]])
+(cross reactivity with [[pages/Oxytocin\|oxytocin]])
 ## Analogues
 Vials: ==synthetic== vasopressin
 ### Desmopressin

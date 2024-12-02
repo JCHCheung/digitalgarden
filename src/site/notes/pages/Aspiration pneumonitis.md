@@ -30,7 +30,7 @@ also see [Paediatric preoperative fasting](../Knowledge/Part%202/Paed/Paediatric
 # Gastric fluid content
 - 'critical gastric volume'
 	- 0.4 → 0.8 → 1.25 → 1.5ml/kg
-		- laboratory study → NGT suctioning → [[gastric ultrasound\|gastric ultrasound]]
+		- laboratory study → NGT suctioning → [[pages/Gastric ultrasound\|Gastric ultrasound]]
 
 Aspiration also depends on other things
 - lower oesophageal sphincter pressure

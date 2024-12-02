@@ -11,7 +11,7 @@ Tags: [[cardiology\|cardiology]], [[Knowledge/Medicine/ECG\|ECG]]
 
 # arrhythmia
 [[bradyarrhythmia\|bradyarrhythmia]]
-[[tachyarrhythmia\|tachyarrhythmia]]
+[[pages/tachyarrhythmia\|tachyarrhythmia]]
 - [[pages/supraventricular tachyarrhythmia\|supraventricular tachyarrhythmia]]
 
 

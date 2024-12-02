@@ -7,12 +7,24 @@
 
 Status: 
 
-Tags: 
+Tags: [[bariatric\|bariatric]]
 
 # Obesity
 
 
 
+[[pages/Obesity and pregnancy\|Obesity and pregnancy]]
+
+
+| Obesity Classification | BMI       | BMI (Asian) |
+| ---------------------- | --------- | ----------- |
+| Class I                | 30 – 34.9 | 25 - 29.9   |
+| Class II               | 35 – 39.9 | 30 - 34.9   |
+| Class III (Morbid)     | ≥ 40      | ≥ 35        |
+| Morbid obesity         | 40 – 49.9 |             |
+| Super obesity          | 50 – 59.9 |             |
+| Super super obesity    | > 60      |             |
+obesity confers a chronic state of low-grade inflammation which results in metabolic derangements leading to impaired glucose utilization and increased insulin resistance
 
 ---
 # Paed

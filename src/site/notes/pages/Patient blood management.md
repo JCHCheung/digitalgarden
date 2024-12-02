@@ -11,7 +11,7 @@ Tags: [[Haematology\|Haematology]]
 
 # Patient blood management
 
-
+[[Knowledge/Medicine/transfusion\|transfusion]]
 
 blood conservation strategies
 

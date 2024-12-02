@@ -10,7 +10,7 @@ Status:
 Tags: [[pages/Obstetrics\|Obstetrics]]
 
 # Obstetric haemorrhage
-[[pages/Postpartum haemorrhage\|Postpartum haemorrhage]] (PPH) is the leading cause of maternal death worldwide, responsible for up to 27.1% of deaths, and is one of the most preventable causes of death
+[[Knowledge/Part 2/Obs/Postpartum haemorrhage\|../Knowledge/Part 2/Obs/Postpartum haemorrhage]] (PPH) is the leading cause of maternal death worldwide, responsible for up to 27.1% of deaths, and is one of the most preventable causes of death
 
 
 # Physiology of maternal haemostasis

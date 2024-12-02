@@ -17,10 +17,12 @@ Tags: [pharmacology](pharmacology.md)
 	- thrombotic events
 	- post-op seizures
 
-# [[pages/Postpartum haemorrhage#Safety\|Drug error - intrathecal TXA]]
+# [[Knowledge/Part 2/Obs/Postpartum haemorrhage#Safety\|Drug error - intrathecal TXA]]
 
+Dose:
+10-30mg/kg IV (max 2g)
 
-
+in the literature threshold ~4-8g (higher dose >4g)
 
 ___
 # References

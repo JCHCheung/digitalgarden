@@ -49,7 +49,7 @@ From gestational age **15-18**wks
 - Historic study by Mendelson et al in 1946
 - recent advancement
 	- gastric emptying nearly normal throughout pregnancy till onset of [[labour\|labour]]
-	- [gastric ultrasound](gastric%20ultrasound)
+	- [Gastric ultrasound](../../../pages/Gastric%20ultrasound.md)
 
 The inspired oxygen concentration should not surpass 35%, as higher values might elevate the presence of free oxygen radicals and the target maternal paCO2 should be maintained around 30 mmHg, a level considered as physiologic in pregnant women.
 
