@@ -12,6 +12,36 @@ Tags: [[Knowledge/Medicine/pharmacology\|pharmacology]], [[Haematology\|Haematol
 # Prothrombin Complex Concentrate
 1u PCC : 1ml [[Knowledge/Medicine/Fresh Frozen Plasma\|FFP]]
 
+# vs [[Knowledge/Medicine/Fresh Frozen Plasma\|FFP]]
+PCCs and plasma have fundamentally different physical properties which do not make them interchangeable as treatments for factor deficiency
+
+PCCs are purified, concentrated products that are derived from plasma and contain concentrated factors II, VII, IX, and X (4-factor PCC; 3-factor PCCs that lack factor VII are available) plus small amounts of anticoagulants (protein C, protein S, and heparin).
+As such, they lack the full complement of coagulation factors that are present in plasma but can rapidly provide a higher concentration of clotting factors in substantially lower volumes than plasma
+
+In most clinical situations, a ==four-factor== PCC is considered preferable
+
+An adult dose of [[Knowledge/Medicine/Fresh Frozen Plasma\|FFP]] is ==15 mL/kg==, while an equivalent dose of PCC may range from ==15 to 50 IU/kg== depending on the indication for use
+
+Doses of PCC above 50 IU/kg are generally not recommended due to the risk of ==thromboembolic complications== related to an imbalance of procoagulant (ex, Factor II) compared to anticoagulant factors (ex. Antithrombin).
+
+| Attributes                    | Plasma                                                                                                                                                                   | PCC                                                                                         |
+| ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------- |
+| Origin                        | Human Plasma                                                                                                                                                             | Human Plasma                                                                                |
+| Storage                       | Frozen (≤30 °C)                                                                                                                                                          | Room Temperature, Lyophilized                                                               |
+| Shelf life                    | 1 year                                                                                                                                                                   | 2 years                                                                                     |
+| Typical adult dose            | 15 mL/kg (approx. 1000 mL)                                                                                                                                               | 12.5–50 IU/kg depending on indication (approx. 80 mL)                                       |
+| Near-Patient Storage Possible | No                                                                                                                                                                       | Yes                                                                                         |
+| Rapid preparation/injection   | No, requires approximately 30 min for thawing                                                                                                                            | Yes, rapidly reconstituted                                                                  |
+| Pathogen reduction            | No                                                                                                                                                                       | Yes                                                                                         |
+| Side-effects                  | Similar to all allogeneic blood products, in particular [[transfusion associated circulatory overload\|transfusion associated circulatory overload]] (TACO), and [[transfusion associated acute lung injury\|transfusion associated acute lung injury]] (TRALI) | Pro- vs anti-coagulant imbalance theoretically possible due to concentrated dose of factors |
+| Factor Content                | High variability dependent on the donor pool                                                                                                                             | Low variability, standardized for FIX content                                               |
+==2019 SCA== Clinical Practice Improvement Advisory for Management of Perioperative Bleeding and Hemostasis in Cardiac Surgery Patients suggested that there was not enough evidence to recommend the routine use of PCC over plasma but that PCC may be preferrable over plasma in the setting of right ventricular failure
+
+==2022 ESAIC== Guidelines on the Management of Severe Postoperative Bleeding recommends PCC preferentially over plasma for the treatment of coagulation factor deficiency
+
+
+Due to presence of heparin in PCCs, product is contraindicated in cases of known [[Heparin Induced Thrombocytopenia\|Heparin Induced Thrombocytopenia]] (HIT)
+
 Hemostasis is based on the potential of the blood to produce thrombin (thrombin generation) and the downstream effects of thrombin on coagulation, anticoagulation, fibrinolysis, and the vascular endothelium
 
 According to the ==cell-based concept== of coagulation, hemostasis begins with the initiation phase, which is characterized by the involvement of ==tissue factors== and ==phospholipids== and leads to the initial production of small amounts of thrombin
@@ -87,3 +117,6 @@ ___
 [[Reference notes/Readwise/Podcasts/PCCs for PharmDs\|PCCs for PharmDs]]
 
 [[Reference notes/Readwise/Articles/Four-Factor Prothrombin Complex Concentrate Use for Bleeding Management in Adult Trauma\|Four-Factor Prothrombin Complex Concentrate Use for Bleeding Management in Adult Trauma]]
+
+[[Reference notes/Readwise/Articles/Magic in a Bottle A Focused Review of Factor Concentrates for the Intraoperative Treatment of Acquired Coagulopathy – Fibrinogen Concentrate, Prothrombin Complex Concentrate, and Recombinant Activated Factor VII\|Magic in a Bottle A Focused Review of Factor Concentrates for the Intraoperative Treatment of Acquired Coagulopathy – Fibrinogen Concentrate, Prothrombin Complex Concentrate, and Recombinant Activated Factor VII - BPRCA]]
+

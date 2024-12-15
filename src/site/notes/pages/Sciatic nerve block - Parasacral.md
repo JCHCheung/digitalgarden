@@ -10,7 +10,7 @@ Status:
 Tags: [[Knowledge/Medicine/Regional Anaesthesia\|Regional]]
 
 # Sciatic nerve block - Parasacral
-= sacral plexus block
+= [[pages/Sacral plexus block\|Sacral plexus block]]
 
 Parasacral parallel shift
 ![](https://i.imgur.com/VbLX2lh.png)
@@ -19,6 +19,7 @@ Parasacral parallel shift
 ![](https://i.imgur.com/izKVDXd.png)
 ![](https://i.imgur.com/GSo8wb6.png)
 
+landmark: greater sciatic notch
 
 
 
@@ -35,4 +36,6 @@ ___
 [A simple and successful sonographic technique to identify the sciatic nerve in the parasacral area | Canadian Journal of Anesthesia/Journal canadien d'anesthésie](https://link.springer.com/article/10.1007/s12630-011-9630-3)
 
 [Preliminary results of a new ultrasound-guided approach to block the sacral plexus: the parasacral parallel shift | BJA: British Journal of Anaesthesia | Oxford Academic](https://academic.oup.com/bja/article/107/2/278/299414)
+
+[Ultrasound Guided Parasacral Sciatic Nerve Block](https://www.youtube.com/watch?v=cKdioYlocUE&ab_channel=RegionalAnesthesiologyandAcutePainMedicine)
 

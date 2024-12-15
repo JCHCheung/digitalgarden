@@ -26,3 +26,4 @@ The “Tombstone” sign indicates right heart failure. It occurs when no “X�
 ___
 # References
 [[Reference notes/Readwise/Articles/Head to Toe Ultrasound Current Opinion on Its Role in Hemodynamic Instability, Hypoxemia, Oligoanuria and the Patient With Altered Neurological Status\|Head to Toe Ultrasound Current Opinion on Its Role in Hemodynamic Instability, Hypoxemia, Oligoanuria and the Patient With Altered Neurological Status]]
+

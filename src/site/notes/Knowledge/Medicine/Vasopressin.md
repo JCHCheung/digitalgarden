@@ -31,8 +31,8 @@ pituitary stimulation → ACTH production
 (cross reactivity with [[pages/Oxytocin\|oxytocin]])
 ## Analogues
 Vials: ==synthetic== vasopressin
-### Desmopressin
-= DDAVP (brand name)
+### [[pages/DDAVP\|Desmopressin]]
+= [[pages/DDAVP\|DDAVP]] (brand name)
 synthetic analogue of ADH
 ==D==-arginine for L-arginine at position 8; position 1 ==d==eaminated
 → V2 specificity
@@ -97,6 +97,7 @@ How should vasopressin be discontinued in patients in the convalescent phase?
 (high dose than DI)
 ## Haemostasis
 one off IV DDAVP 0.3 - 0.4 µg/kg
+(beware of fluid overload)
 approx. 20-40 µg
 → ~10x higher than DI dose
 effect max in ~30min

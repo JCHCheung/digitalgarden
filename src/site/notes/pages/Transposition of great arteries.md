@@ -124,4 +124,4 @@ ___
 
 Medmastery CHD Chapter 9
 
-123sonography ACHD - ccT
+123sonography ACHD - ccTGA

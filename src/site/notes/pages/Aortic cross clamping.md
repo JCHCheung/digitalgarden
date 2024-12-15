@@ -184,6 +184,8 @@ The renin–angiotensin system affects the renal blood flow during aortic clampi
 The decrease in renal function during the time of severely reduced blood flow to the kidney can be seen as an energy conserving and a protective compensatory mechanism of the kidneys.
 
 ## Spinal cord
+see [[pages/aortic aneurysm#Spinal cord protection\|Spinal cord protection]]
+
 During the time of aortic cross-clamping, the spinal cord perfusion relies on collateral blood flow.
 
 The artery of Adamkewicz is one of the most distal feeding arteries to the spinal cord, and if this artery derives from that part of the aorta affected by the placement of the cross-clamp or repair itself, then the spinal cord is at the greatest risk for ischemia.
