@@ -7,10 +7,10 @@
 
 Status: 
 
-Tags: [[pages/congenital heart disease\|CHD]]
+Tags: [[Knowledge/Part 2/Cardiac/congenital heart disease\|CHD]]
 
 # Transposition of great arteries
-most ==common cyanotic== cardiac lesion in newborns, accounting for 5-10% of all [[pages/congenital heart disease\|CHD]].
+most ==common cyanotic== cardiac lesion in newborns, accounting for 5-10% of all [[Knowledge/Part 2/Cardiac/congenital heart disease\|CHD]].
 
 # Anatomy & physiology
 Discordant ventriculoarterial connection

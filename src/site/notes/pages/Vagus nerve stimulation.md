@@ -10,7 +10,7 @@ Status:
 Tags: [[Neuro\|Neuro]]
 
 # Vagus nerve stimulation
-[[pages/Epilepsy surgery\|Epilepsy surgery]]
+[[Knowledge/Part 2/NS/Epilepsy surgery\|Epilepsy surgery]]
 ## Background
 Vagus nerve stimulation affects a variety of monoamine- (such as serotonin, noradrenaline, dopamine and GABA) producing nuclei in the brainstem (e.g. locus coeruleus, raphé nuclei). Vagus nerve stimulation causes activation in the limbic system (e.g. amygdala, hippocampus) and modulation of functional connectivity in different brain regions (e.g. prefrontal cortex)
 

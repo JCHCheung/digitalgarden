@@ -16,7 +16,7 @@ Tags: [[equipment\|equipment]], [[pages/Airway\|Airway]]
 
 
 
-[[pages/bougie\|bougie]]
+[[Knowledge/Part 2/Equipment/bougie\|bougie]]
 
 
 ___

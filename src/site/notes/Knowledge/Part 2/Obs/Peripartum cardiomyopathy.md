@@ -32,7 +32,7 @@ Classical definition
 The ==2010== Heart Failure Association of the European Society of Cardiology Working Group revised the definition of PPCM to “an idiopathic cardiomyopathy presenting with HF secondary to LV systolic dysfunction towards the end of pregnancy or in the months following delivery, where no other cause of heart failure is found”
 ## Risk factors
 - hypertensive diseases of pregnancy
-	- including [[pages/Preeclampsia\|Preeclampsia]]
+	- including [[Knowledge/Part 2/Obs/Preeclampsia\|Preeclampsia]]
 - multiple gestations
 - advanced maternal age
 - anaemia
@@ -52,11 +52,11 @@ Although there is no specific ECG pattern for PPCM, at initial evaluation, the E
 
 | Differential Diagnosis                                                          | Differentiating Markers                                                                              |
 | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
-| Preexisting [[pages/Cardiomyopathy\|Cardiomyopathy]]                                                  | History, family history, prior echocardiography                                                      |
-| [[pages/Preeclampsia\|Preeclampsia]]-induced pulmonary edema in the absence of systolic dysfunction | History, preserved ejection fraction on echocardiography, sFlt-1 and PLGF levels                     |
+| Preexisting [[Knowledge/Part 2/Cardiac/Cardiomyopathy\|Cardiomyopathy]]                                                  | History, family history, prior echocardiography                                                      |
+| [[Knowledge/Part 2/Obs/Preeclampsia\|Preeclampsia]]-induced pulmonary edema in the absence of systolic dysfunction | History, preserved ejection fraction on echocardiography, sFlt-1 and PLGF levels                     |
 | Pulmonary or amniotic embolism                                                  | History, chest CT                                                                                    |
 | Valvular heart disease, including rheumatic disease                             | History, echocardiography                                                                            |
-| [[pages/congenital heart disease\|Congenital heart disease]] that has resulted in surgical correction           | History, echocardiography                                                                            |
+| [[Knowledge/Part 2/Cardiac/congenital heart disease\|Congenital heart disease]] that has resulted in surgical correction           | History, echocardiography                                                                            |
 | Chemotherapy-induced cardiomyopathy                                             | History, especially of treatment with doxorubicin or other anthracyclines, trastuzumab, or sorafenib |
 | Spontaneous coronary-artery dissection                                          | History, echocardiography, elevated troponin levels                                                  |
 | Other causes of myocardial infarction, including MINOCA                         | History, echocardiography, elevated troponin levels                                                  |
@@ -90,11 +90,11 @@ suppression of [[prolactin\|prolactin]] secretion, either by ==pharmacologic== m
 
 Of note, human [[prolactin\|prolactin]] has been shown to be more ==resistant to cleavage== than prolactin in rats, and extrapolations from rodent models may be limited
 
-[[pages/Oxytocin\|Oxytocin]], which is secreted by the pituitary to promote lactation, can also have vasculotoxic effects, promoting postpartum aortic dissection in models of Marfan’s syndrome, but a definitive role in peripartum cardiomyopathy has not been directly established.
+[[Knowledge/Part 2/Obs/Oxytocin\|Oxytocin]], which is secreted by the pituitary to promote lactation, can also have vasculotoxic effects, promoting postpartum aortic dissection in models of Marfan’s syndrome, but a definitive role in peripartum cardiomyopathy has not been directly established.
 
 ![](https://i.imgur.com/7Z2n9AR.png)
 
-Soluble fms-like tyrosine kinase 1 (sFlt-1), a soluble decoy receptor for VEGF that is abundantly secreted by the ==placenta== in late gestation, has been shown to trigger cardiovascular rarefaction, leading to peripartum cardiomyopathy in mice. The latter observation may explain the strong epidemiologic associations of [[pages/Preeclampsia\|preeclampsia]] and ==multiple gestations== with peripartum cardiomyopathy, because large increases in placental secretion of sFlt-1 are seen in both contexts
+Soluble fms-like tyrosine kinase 1 (sFlt-1), a soluble decoy receptor for VEGF that is abundantly secreted by the ==placenta== in late gestation, has been shown to trigger cardiovascular rarefaction, leading to peripartum cardiomyopathy in mice. The latter observation may explain the strong epidemiologic associations of [[Knowledge/Part 2/Obs/Preeclampsia\|preeclampsia]] and ==multiple gestations== with peripartum cardiomyopathy, because large increases in placental secretion of sFlt-1 are seen in both contexts
 
 The ==late-gestation placenta== is also abundantly steroidogenic. [[Progesterone\|Progesterone]], highly secreted by the placenta, suppresses the burning of carbohydrates by the heart, promotes cardiac hypertrophy, and may have direct negative-inotropic effects, all of which probably sensitize the heart to further insults
 
@@ -148,7 +148,7 @@ Following delivery, removal of caval compression by the fetus, autotransfusion d
 ## Lactation / Bromocriptine
 ==Lactation== is generally not contraindicated
 
-There are no proven disease-specific therapies for peripartum cardiomyopathy, but the use of [[pages/Bromocriptine\|Bromocriptine]] to suppress the release of prolactin from the pituitary is currently under investigation and may be considered in patients with a left ventricular ejection fraction of less than 35%.
+There are no proven disease-specific therapies for peripartum cardiomyopathy, but the use of [[Knowledge/Part 2/Pharmacology/Bromocriptine\|Bromocriptine]] to suppress the release of prolactin from the pituitary is currently under investigation and may be considered in patients with a left ventricular ejection fraction of less than 35%.
 
 > [!NOTE] Guidelines
 > 2018 ESC guidelines include a weak recommendation (Class IIb, Level of Evidence: B) for the use of bromocriptine. Due to the association with thrombotic complications, therapeutic anticoagulation is recommended in conjunction with bromocriptine.
@@ -164,7 +164,7 @@ Implantation of an LVAD or heart transplantation is required in up to ==10%== of
 
 mortality among patients with peripartum cardiomyopathy can be as high as ==20%==, and it is higher in low-income countries than in high-income countries, despite a generally lower incidence of known risk factors in low-income countries
 
-The occurrence of [[pages/Preeclampsia\|preeclampsia]] with peripartum cardiomyopathy has been associated with better left ventricular recovery and with a higher incidence of adverse cardiovascular outcomes
+The occurrence of [[Knowledge/Part 2/Obs/Preeclampsia\|preeclampsia]] with peripartum cardiomyopathy has been associated with better left ventricular recovery and with a higher incidence of adverse cardiovascular outcomes
 
 ## Contraception & future pregnancy
 In the early postpartum setting with severe LV dysfunction, the increased risk of thromboembolism should dissuade the use of ==estrogen-containing contraceptives==

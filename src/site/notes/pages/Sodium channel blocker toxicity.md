@@ -20,7 +20,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]], [[toxicology\|toxicology]]
 	- (usually no [[TdP\|TdP]] as tachycardic)
 Treatment: Sodium bicarbonate; avoid medications like amiodarone, lidocaine, and procainamide which will worsen toxicity
 
-[[pages/tricyclic antidepressant\|TCA]]
+[[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|TCA]]
 [[cocaine\|cocaine]]: Class 1c agent
 
 

@@ -17,6 +17,18 @@ defined as
 PPH is one of the leading causes of pregnancy-related deaths
 
 Elements of NPMS (National partnership for Maternal Safety):
+# Antenatal anaemia
+==Antenatal anemia== has been a/w PPH
+antenatal hemoglobin <==9 g/dL== conferring a ==2‐fold== increased risk of severe PPH requiring transfusion
+severe antenatal anemia (hemoglobin <==7 g/dL==) increasing the risk of PPH ==10‐fold==
+
+Although studies have hypothesized that severe anemia may impair myometrial contractility ∵ reduced oxygenation, ↑ risk of uterine atony, the precise ==mechanism==(s) through which anemia heightens PPH risk are ==unclear==
+
+
+> [!NOTE] Guideline
+> Recent ACOG guidance recommends screening for anemia in the ==first trimester== and again at ==24‐28/40== weeks gestation as well as low‐dose iron supplementation for all pregnant women.
+> 
+> RCOG recommends antepartum hemoglobin assessment (with iron supplementation if required) to reduce the morbidity associated with anemia and PPH
 
 # Coagulopathy during PPH
 The majority of obstetric hemorrhage is caused by uterine atony, surgical and/or genital tract trauma (>80%), yet coagulation is often preserved unless bleeding is massive

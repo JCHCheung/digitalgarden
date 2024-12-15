@@ -70,7 +70,7 @@ Dose calculations of chemotherapeutic agents are usually based on ==body surface
 - renal excretion → accumulation in proximal tubule
 - IV hydration ↓ cisplatin T1/2 & transit time in proximal tubules
 	- may be combined w/ mannitol or lasix
-- ↓ nephrotoxicity w/ [[pages/Sodium thiosulfate\|Sodium thiosulfate]]
+- ↓ nephrotoxicity w/ [[Knowledge/Part 2/Pharmacology/Sodium thiosulfate\|Sodium thiosulfate]]
 
 ==oxaliplatin== a/w higher risk of postoperative ==bleeding==
 - diluted in D5 ∵ tendency to be converted to ==oxalate== = risk of peripheral neuropathy

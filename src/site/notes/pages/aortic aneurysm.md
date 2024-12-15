@@ -146,7 +146,7 @@ The ==superior== source vessels are branches from the left ==subclavian== and ==
 Throughout its length the anterior spinal arteries receive supply from the paired intercostal and lumbar segmental arteries and then caudally from branches of the inferior ==mesenteric==, ==internal iliac==, and ==sacral== arteries
 
 reverse flow from spinal arteries may both contribute to ==extraprosthetic leaks== after the placement of sealed or occlusive stent grafts (type II endoleaks) and ‘shunt’ blood from the spinal circulation by a low-resistance pathway
-## [[pages/Lumbar drain\|Lumbar drain]]
+## [[Knowledge/Part 2/Vascular/Lumbar drain\|Lumbar drain]]
 Cerebrospinal fluid drainage is effective because acute changes in the spinal cord in response to ischaemia or reperfusion may result in oedema and increased CSF pressures during the procedure and for ==48–72 h== (or even longer) afterwards
 
 CSFP is maintained at ==10–15 mm Hg==
@@ -158,7 +158,7 @@ Where there is evidence of spinal cord ischaemia, the SCPP and MAP target can be
 
 The spinal drain consists of a transduced intrathecal catheter inserted at the level of L3–4 or L4–5 to reduce the risk of direct spinal cord damage
 
-## [[pages/Intra-op neuro-monitoring\|IONM]]
+## [[Knowledge/Part 2/NS/Intra-op neuro-monitoring\|IONM]]
 Paraplegia caused by spinal cord ischaemia significantly dampens the lower-limb potentials when compared to those of the upper limb.
 MEPs disappear in the presence of neuromuscular blocking agents, and volatile anaesthetics also cause dose-dependent depression of the MEP at doses within the range used in clinical practice
 

@@ -165,7 +165,7 @@ Non-pharmacological adjuncts:
 | Severe pain       | Oral morphine first line  <br>Fentanyl/buprenorphine safest in eGFR <30  <br>Subcutaneous route considered if failed p.o. or TD  <br>I.V. infusion only considered when s.c. contraindicated  <br>For rapid pain control use i.v. opioid | I, A  <br>III, B  <br>III, B  <br>III, B  <br>III, B |
 | Breakthrough pain | Immediate-release opioids                                                                                                                                                                                                                | I, A                                                 |
 | Bone pain         | External beam radiotherapy (8 Gy single dose)  <br>Denosumab                                                                                                                                                                             | I, A  <br>III, A                                     |
-| Neuropathic pain  | First line: [[gabapentinoid\|gabapentinoid]], [[pages/tricyclic antidepressant\|tricyclic antidepressant]] or duloxetine  <br>Interventional treatments have inconclusive evidence                                                                                                                     | I, A  <br>II, C                                      |
+| Neuropathic pain  | First line: [[gabapentinoid\|gabapentinoid]], [[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|tricyclic antidepressant]] or duloxetine  <br>Interventional treatments have inconclusive evidence                                                                                                                     | I, A  <br>II, C                                      |
 | Interventions     | Cordotomy should be available in refractory cases  <br>[[Coeliac plexus block\|Coeliac plexus block]] indicated in ==pancreatic cancer==                                                                                                                       | V, C  <br>II, B                                      |
 #### WHO pain ladder
 - Since 1986
@@ -186,7 +186,7 @@ Non-pharmacological adjuncts:
 - Menthol cream
 	- acts on the transient receptor potential melastatin 8 (TRPM8)
 		- upregulated in neuropathic pain
-- [[pages/local anaesthetics\|LA]] topically either via patches or cream (EMLA/AMETOP)
+- [[Knowledge/Part 2/Pharmacology/local anaesthetics\|LA]] topically either via patches or cream (EMLA/AMETOP)
 	- RCT evidence supporting use is limited
 	- shown to be effective in individual studies
 - Capsaicin
@@ -194,13 +194,13 @@ Non-pharmacological adjuncts:
 	- depletes neuronal substance P
 		- → desensitises TRPV1 receptors → analgesia
 - Doxepin
-	- [[pages/tricyclic antidepressant\|TCA]]
-### [[pages/opioid\|Opioid]]
+	- [[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|TCA]]
+### [[Knowledge/Part 2/Pharmacology/opioid\|Opioid]]
 - particularly effective for ==acute nociceptive pain==
 - less appropriate for ==chronic== pain 
 	- ∵ ADR
 		- potential for addiction
-		- [[pages/opioid#OIH\|opioid induced hyperalgesia]]
+		- [[Knowledge/Part 2/Pharmacology/opioid#OIH\|opioid induced hyperalgesia]]
 - worsening cancer survival outcomes
 	- limited evidence & controversial
 	- ? ∵ immunological & proangiogenic properties of opioids
@@ -219,12 +219,12 @@ Non-steroidal anti-inflammatory drugs are effective non-opioid drugs for a varie
 
 | Recommended                                                                                                                                             | Inconclusive evidence                                                                                                                                                                          | Weak against                       | Strong against                |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- | ----------------------------- |
-| [[pages/tricyclic antidepressant\|TCA]]<br>SNRIs  <br>Pregabalin  <br>Gabapentin  <br>Lidocaine patch  <br>Capsaicin patch  <br>Tramadol  <br>Botulin toxin A | Capsaicin cream  <br>Carbamazepine  <br>Topical clonidine  <br>Lamotrigine  <br>NMDA antagonists  <br>Oxycarbazepine  <br>SSRI antidepressants  <br>Tapentadol  <br>Topiramate  <br>Zonisamide | Cannabinoids  <br>Sodium valproate | Levetiracetam  <br>Mexiletine |
+| [[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|TCA]]<br>SNRIs  <br>Pregabalin  <br>Gabapentin  <br>Lidocaine patch  <br>Capsaicin patch  <br>Tramadol  <br>Botulin toxin A | Capsaicin cream  <br>Carbamazepine  <br>Topical clonidine  <br>Lamotrigine  <br>NMDA antagonists  <br>Oxycarbazepine  <br>SSRI antidepressants  <br>Tapentadol  <br>Topiramate  <br>Zonisamide | Cannabinoids  <br>Sodium valproate | Levetiracetam  <br>Mexiletine |
 ==ESMO== cancer pain guidelines regarding medication for neuropathic cancer pain.
 
 | Recommended                       | No recommendation for or against | Recommended against |
 | --------------------------------- | -------------------------------- | ------------------- |
-| [[pages/tricyclic antidepressant\|TCA]] |                                  | Ketamine            |
+| [[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|TCA]] |                                  | Ketamine            |
 | Gabapentin                        |                                  | Levetiracetam       |
 | Pregabalin                        |                                  | Mexiletine          |
 | Duloxetine                        |                                  |                     |

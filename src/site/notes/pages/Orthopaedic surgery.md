@@ -12,7 +12,7 @@ Tags:
 # Orthopaedic Surgery
 [Scoliosis](Scoliosis)
 
-[[pages/Total joint replacement\|Total joint replacement]]
+[[Knowledge/Part 2/Ortho/Total joint replacement\|Total joint replacement]]
 
 [[Hip fractures\|Hip fractures]]
 

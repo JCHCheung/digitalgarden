@@ -101,7 +101,7 @@ Safety profile in pregnancy not well established
 All DOACs can cross into ==breast milk==, and their use during breastfeeding is discouraged because of a relatively unknown safety profile and lack of available studies on the amount of transfer that occurs
 
 # Aspirin
-Women at risk for [[pages/Preeclampsia\|PET]] are recommended to take between 75 and 150 mg of aspirin daily, starting at ==12 weeks==' gestation, through delivery
+Women at risk for [[../../../pages/Preeclampsia\|PET]] are recommended to take between 75 and 150 mg of aspirin daily, starting at ==12 weeks==' gestation, through delivery
 
 ==Any== of the following high-risk conditions are indications for aspirin prophylaxis: 
 - hypertensive disease during a previous pregnancy, 
@@ -179,7 +179,7 @@ Patients who are hospitalised antenatally and require thromboprophylaxis warrant
 
 There is currently ==little evidence== for the use of point-of-care anticoagulation testing to assess suitability for neuraxial anaesthesia
 
-If patients are receiving neuraxial [[pages/Labour analgesia\|labour analgesia]], using low concentration local anaesthetics may limit the extent of motor block during labour, to allow for ==concurrent assessment of epidural haematoma==.
+If patients are receiving neuraxial [[Knowledge/Part 2/Obs/Labour analgesia\|labour analgesia]], using low concentration local anaesthetics may limit the extent of motor block during labour, to allow for ==concurrent assessment of epidural haematoma==.
 
 
 

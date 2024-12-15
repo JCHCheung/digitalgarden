@@ -12,7 +12,7 @@ Tags: [[Knowledge/Medicine/pharmacology\|pharmacology]], [[pages/Obstetrics\|Obs
 # Tocolytics
 [[Knowledge/Medicine/glyceral trinitrate\|GTN]]
 
-[[pages/Atosiban\|Atosiban]]
+[[Knowledge/Part 2/Obs/Atosiban\|Atosiban]]
 
 ## Tocolytic induced pulmonary oedema
 mechanism unknown

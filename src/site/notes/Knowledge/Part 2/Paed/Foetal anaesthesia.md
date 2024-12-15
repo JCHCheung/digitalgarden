@@ -86,7 +86,7 @@ the latest evidence suggests that thalamic connections to the subplate, forming 
 While volatile anaesthetics and propofol, critical components of foetal anaesthesia, cross the placenta, their foetal concentrations, even after prolonged administration, reach only around 70% and 50% of maternal concentrations, respectively [70,72]. This level may not suffice for foetal surgery
 
 Procedures painful to foetus or need foetal immobilisation:
-- [[pages/opioid\|opioid]] (e.g., 10-20-50 μg/kg [[fentanyl\|fentanyl]])
+- [[Knowledge/Part 2/Pharmacology/opioid\|opioid]] (e.g., 10-20-50 μg/kg [[fentanyl\|fentanyl]])
 - [NMBA](../../Medicine/neuromuscular%20blocking%20agent.md) (e.g., 1.2 mg/kg [[rocuronium\|rocuronium]], 0.4 mg/kg [[cisatracurium\|cisatracurium]], or 0.2 mg/kg vecuronium)
 - [[anticholinergic\|anticholinergic]] drug (e.g., 10–20 μg/kg [[atropine\|atropine]])
 

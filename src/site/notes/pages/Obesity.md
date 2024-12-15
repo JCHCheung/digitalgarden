@@ -13,7 +13,7 @@ Tags: [[bariatric\|bariatric]]
 
 
 
-[[pages/Obesity and pregnancy\|Obesity and pregnancy]]
+[[Knowledge/Part 2/Obs/Obesity and pregnancy\|Obesity and pregnancy]]
 
 
 | Obesity Classification | BMI       | BMI (Asian) |

@@ -12,7 +12,7 @@ Tags:
 # pharmacology
 
 
-[[pages/pharmacokinetics\|pharmacokinetics]]
+[[Knowledge/Part 2/Pharmacology/pharmacokinetics\|pharmacokinetics]]
 
 
 

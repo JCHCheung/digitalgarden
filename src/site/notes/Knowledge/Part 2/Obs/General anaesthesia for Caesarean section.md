@@ -29,7 +29,7 @@ Na citrate lasting around 30min
 higher risk of ==difficult== or ==failed== intubation - 1:49 and 1:808 respectively, compared to non-pregnant patients
 
 The physiologic changes of pregnancy affecting the airway and respiratory system include more vascular and ==edematous== upper respiratory tract mucosa, with increased risk of tissue ==friability==, bleeding and swelling with airway manipulation.
-These changes may be exaggerated in the setting of [[pages/Preeclampsia\|preeclampsia]], [[pages/Oxytocin\|oxytocin]] and IV fluid administration and after ==Valsalva== maneuvers during the 2nd stage of labor
+These changes may be exaggerated in the setting of [[Knowledge/Part 2/Obs/Preeclampsia\|preeclampsia]], [[Knowledge/Part 2/Obs/Oxytocin\|oxytocin]] and IV fluid administration and after ==Valsalva== maneuvers during the 2nd stage of labor
 
 After induction of anesthesia, oxygen desaturation with apnea is accelerated in parturients due to ↓ FRC and ↑ O2 consumption
 
@@ -56,7 +56,7 @@ Gentle mask ventilation with peak inspiratory pressure <==20 cm H2O== with or wi
 (pearl: if some drugs can cross BBB → likely it can cross placenta)
 
 incision w/i seconds of induction
-→ leading to hypertension (could lead to Cx esp in [[pages/Preeclampsia\|PET]] patients)
+→ leading to hypertension (could lead to Cx esp in [[Knowledge/Part 2/Obs/Preeclampsia\|PET]] patients)
 
 ## Delivery:
 Apgar at 1min usually lower ∵ we anaesthetise the baby as well

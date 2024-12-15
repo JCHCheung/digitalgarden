@@ -23,7 +23,7 @@ Pertinent information for the anesthesiologist includes gestational age, fetal c
 ## Crisis plan
 should also discuss the plan for the fetus in the event of an ==intraoperative maternal arrest== and/or the need for ==fetal resuscitation==. If the fetus is of a previable gestational age or the patient has elected not to resuscitate the fetus if born at the time of surgery, planning for ==emergent cesarean delivery== is still needed, as it may be performed for maternal hemorrhage or cardiac arrest
 
-[[pages/Uterotonics\|Uterotonics]] should be readily available in the event of an unplanned cesarean delivery to prevent uterine atony
+[[Knowledge/Part 2/Obs/Uterotonics\|Uterotonics]] should be readily available in the event of an unplanned cesarean delivery to prevent uterine atony
 
 # Fetal physiology
 More than half of the fetal blood volume resides in the placenta and is approximately ==110–160 mL/kg==, from the start of the ==2nd trimester== to term

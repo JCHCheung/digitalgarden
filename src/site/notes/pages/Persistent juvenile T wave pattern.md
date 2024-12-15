@@ -21,7 +21,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
     - Beware of diagnosing this in elderly men
 - DDx: 
 	- ischemia
-	- [[pages/Pulmonary embolism\|PE]]
+	- [[Knowledge/Part 2/Cardiac/Pulmonary embolism\|PE]]
 	- ARVD
 	- [[Knowledge/Medicine/Brugada syndrome\|Brugada syndrome]]
 	- [[RBBB\|RBBB]]

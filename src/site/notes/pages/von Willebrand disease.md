@@ -10,8 +10,15 @@ Status:
 Tags: [[Haematology\|Haematology]]
 
 # von Willebrand disease
-Von Willebrand disease (VWD), the most frequent ==autosomal inherited== bleeding disorder, is caused by ==quantitative== or ==qualitative== defects of von Willebrand factor (VWF), an adhesive protein that binds platelets to exposed sub-endothelium and carries factor VIII (==FVIII==) in circulation.
+Von Willebrand factor is a large ==glycoprotein== required for ==platelet adhesion== at the site of tissue injury (exposed sub-endothelium) and to stabilise ==Factor VIII== (FVIII)
+
+VWF is synthesized in bone ==megakaryocytes== and vascular ==endothelium== and stored in ==Weibel–Palade bodies== in the endothelial cells
+
+Von Willebrand disease (VWD), the most frequent ==autosomal inherited== bleeding disorder, is caused by ==quantitative== or ==qualitative== defects of vWF
 As a consequence, in addition to the defect of VWF, also FVIII, the protein deficient in [[haemophilia A\|haemophilia A]], may be variably reduced in VWD patients
+
+estimated prevalence 1%
+clinically significant disease 1 in 10,000
 
 ==Quantitative== deficiency of VWF
 - Type 1 ==Partial== quantitative deficiency of VWF
@@ -20,6 +27,7 @@ As a consequence, in addition to the defect of VWF, also FVIII, the protein defi
 - Type 3 Virtually ==complete== deficiency of VWF (& ↓↓ F8 )
 	- rare
 	- clinically most severe
+	- Allo-antibody formation occurs in 10–15% of type 3 VWD
 ==Qualitative== deficiency of VWF = ==Type 2==
 - Type 2A
 	- ==↓ platelet-dependent function== a/w absence of high- and intermediate-molecular weight ==VWF multimers==
@@ -39,9 +47,19 @@ As a consequence, in addition to the defect of VWF, also FVIII, the protein defi
 		- autosomal recessive inheritence
 		- genetic studies
 
+also a group of patients who have a bleeding history and milder reductions in VWF activity (0.3–0.5 IU/ml). Recently, these patients have been reclassified as having ‘==low VWF==’, a risk factor for bleeding, but additional causes of bleeding should be sought
+
+| Type | Effect                                                                                                              | Inheritance                | Bleeding propensity             | Responsive to desmopressin?                      | Other therapeutic options                                      | CNB                                |
+| ---- | ------------------------------------------------------------------------------------------------------------------- | -------------------------- | ------------------------------- | ------------------------------------------------ | -------------------------------------------------------------- | ---------------------------------- |
+| 1    | Partial quantitative deficiency                                                                                     | Autosomal dominant         | Mild to moderate                | Most                                             | TXA  <br>Plasma-derived VWF concentrates (not in mild Type 1)  | Yes, if normal VWF levels achieved |
+| 2A   | Selective qualitative deficiency with decreased VWF function as a result of loss of high-molecular-weight multimers | Usually autosomal dominant | Variable, usually moderate      | Variable, usually inadequate functional response | VWF-containing concentrates  <br>TXA                           | No                                 |
+| 2B   | Qualitative deficiency with increased platelet adhesion; can cause thrombocytopenia                                 | Autosomal dominant         | Variable, usually moderate      | May worsen thrombocytopenia—caution with use     | VWF-containing concentrates  <br>Platelet transfusion          | No                                 |
+| 2M   | Qualitative deficiency with decreased VWF-dependent platelet adhesion                                               | Autosomal dominant         | Variable, usually moderate      | Variable, usually inadequate functional response | VWF-containing concentrates  <br>TXA                           | No                                 |
+| 2N   | Decreased binding to FVIII                                                                                          | Autosomal recessive        | Variable, usually mild/moderate | Variable                                         | VWF-containing concentrates  <br>TXA                           | No                                 |
+| 3    | Complete quantitative deficiency                                                                                    | Autosomal recessive        | Severe                          | No                                               | VWF-containing concentrates  <br>Platelet transfusion  <br>TXA | No                                 |
 
 treatment of VWD requires the correction of the dual haemostatic defect (low ==FVIII== and low/abnormal ==VWF==).
-These goals can be achieved by increasing plasma concentrations of these factors through their release from endothelial cells with [[Knowledge/Medicine/Vasopressin#Desmopressin\|desmopressin]] ([[pages/DDAVP\|DDAVP]]) or by using replacement therapy with human plasma-derived (pd) low-purity VWF/FVIII concentrates or a high-purity VWF product.
+These goals can be achieved by increasing plasma concentrations of these factors through their release from endothelial cells with [[Knowledge/Medicine/Vasopressin#Desmopressin\|desmopressin]] ([[Knowledge/Part 2/Pharmacology/DDAVP\|DDAVP]]) or by using replacement therapy with human plasma-derived (pd) low-purity VWF/FVIII concentrates or a high-purity VWF product.
 
 # Lab test
 ↓ plt (usually mild ~100-140) if Type 2B
@@ -70,13 +88,22 @@ derived ratios:
 # Treatment
 ![](https://i.imgur.com/Q2ONas3.png)
 
-## [[pages/DDAVP\|DDAVP]]
+## [[Knowledge/Part 2/Pharmacology/DDAVP\|DDAVP]]
 DDAVP response is mainly dependent on ==genotype== and ==phenotype==
 a ==test-dose== infusion at the time of diagnosis is recommended to establish the ==pattern of response and its duration==
 
 Progressive reduced response to DDAVP can be observed due to =depletion= of VWF/FVIII from the storages (==tachyphylaxis==) after repeated treatments (usually >3 over 24 hours)
 
-The risk of ==hyponatremia== is remote when using a single dose in adults but caution should be used in ==pregnancy== ([[pages/Preeclampsia\|PET]] & [[pages/Oxytocin\|Oxytocin]] use further ↑ risks), and fluid restriction is advisable when further dose(s) is required along with monitoring of urinary output and serum electrolytes.
+The risk of ==hyponatremia== is remote when using a single dose in adults but caution should be used in ==pregnancy== ([[Knowledge/Part 2/Obs/Preeclampsia\|PET]] & [[Knowledge/Part 2/Obs/Oxytocin\|Oxytocin]] use further ↑ risks), and fluid restriction is advisable when further dose(s) is required along with monitoring of urinary output and serum electrolytes.
+
+
+> [!NOTE] RCOG guideline
+> Fluid intake should be restricted to ==1 litre for 24 hours== following DDAVP administration to prevent maternal hyponatraemia. 
+> 
+> If additional fluid is required, electrolytes should be monitored.
+
+
+theoretical risk of ==placental insufficiency== caused by ==vasoconstriction==, and desmopressin should be avoided in [[Knowledge/Part 2/Obs/Preeclampsia\|PET]]
 
 DDAVP is usually effective in patients with ==type 1== VWD and baseline VWF and FVIII levels ==≥10 IU/dL== 
 ==variable== responses are observed in ==type 2== VWD patients
@@ -115,13 +142,40 @@ In general, women with levels at baseline of VWF and FVIII >==30 U/dL==, sugges
 
 Women with basal levels <==20 U/dL== usually have a lesser increase since most of these women carry DNA variants associated with increased VWF clearance or decreased synthesis and secretion or are compound heterozygous for different VWF variants which prevent the achievement of satisfactory hemostatic levels
 
-Ideally, the results of a test-infusion with [[pages/DDAVP\|DDAVP]] should be available before pregnancy for every woman with VWD and basal level of FVIII and VWF <30 U/dL
+Ideally, the results of a test-infusion with [[Knowledge/Part 2/Pharmacology/DDAVP\|DDAVP]] should be available before pregnancy for every woman with VWD and basal level of FVIII and VWF <30 U/dL
 
 VWD patients should be monitored for VWF:RCo and FVIII:C ==at least once== during the ==3rd trimester== of pregnancy
 The risk of bleeding is minimal when FVIII:C and VWF:RCo levels w/o treatment during pregnancy are ==≥50 U/dL==
 risk of bleeding is highest in those who do not self-correct, even if treated
 
+
+> [!NOTE] Guidelines
+> RCOG advise assessment of plasma VWF levels at booking, third trimester, and prior to any invasive procedures
+> ACOG favoring third trimester assessment to facilitate delivery planning
+
+proposed definition of [[Knowledge/Part 2/Obs/Postpartum haemorrhage\|PPH]] in vWD:
+==Primary== postpartum hemorrhage (PPH) includes
+- blood loss ≥1000 mL w/i 24 hours of birth, or
+- any blood loss with the potential to produce hemodynamic instability. 
+Of note, once blood loss exceeds 500 mL in a vaginal birth, early intervention with measures known to reduce PPH (eg, uterotonics, tranexamic acid) should be considered.
+
+==Secondary== PPH includes blood loss that is heavier than normal lochial loss between 24h & 6wks postpartum and
+- Necessitates medical review or intervention between 24 hours and 6 weeks postpartum, or
+- Lasts beyond 6 weeks after childbirth
+## SA / EA
+Central neuraxial blocks can be offered in ==Type 1== VWD, in which concentrations of VWF activity and FVIII:C are above 0.5 IU/ml with a normal coagulation screen and platelet count
+
+In Types 2 and 3 VWD, UK guidance advises against the use of CNB, even after VWF replacement therapy.
+This is because the achievement of normal laboratory measurements of VWF activity does not usually equate to restoration of normal haemostasis in these patients
+
+As VWF concentrations decrease early in the postpartum period, an epidural catheter should be ==removed soon after delivery== or repeat treatment considered ==before removal==
+## TXA
+Oral [[Knowledge/Medicine/Tranexamic acid\|TXA]] should be started at the onset of labour, or administered intravenously before Caesarean section and continued in the postpartum period
+
+A limited amount of TXA (==∼1%==) may be secreted in breast milk, but this is not considered likely to produce an antifibrinolytic effect in the infant
 ## Type 1
+Use of ==non‐pregnant reference ranges== in this clinical context is fraught as plasma VWF levels in pregnant women with type 1 VWD remain consistently lower than their healthy pregnant peers and bleeding may still occur at delivery
+
 In ==type 1== VWD, pregnant women with FVIII:C and/or VWF levels lower than ==30 U/dL== at time of parturition, the administration of ==desmopressin== after umbilical clamping and for 3-4 days thereafter is required especially when midline episiotomy is required. 
 The IV route elicits the ==same increase== as that of the SC one, but the ==time to peak== is generally shorter.
 However, ==monitoring== FVIII and VWF levels is advisable, especially when repeated doses are given
@@ -158,8 +212,11 @@ Replacement therapy is as suggested above, but it usually should be ==prolonged=
 
 Usual ==thrombo-prophylactic== treatment with LMWH should be considered in patients at high risk of venous thrombosis during replacement therapy for caesarean section, especially if high FVIII levels are anticipated by using replacement treatment
 ## Post partum
-Factor VIII and VWF ==fall to baseline== levels soon after delivery 
+Factor VIII and VWF ==fall to baseline== levels soon after delivery (by 3 wks post partum)
 oral antifibrinolytic agents (eg [[Knowledge/Medicine/Tranexamic acid\|TXA]] 1 g every 8 hours up to 2 weeks) can be used during this period to prevent delayed [[Knowledge/Part 2/Obs/Postpartum haemorrhage\|PPH]] due to heavy lochia. 
+
+remove EA catheter quickly (or repeat treatment)
+
 Tranexamic acid appears to decrease the risk of delayed [[Knowledge/Part 2/Obs/Postpartum haemorrhage\|PPH]] and appears to be safe during lactation.
 
 ___
@@ -172,4 +229,9 @@ ___
 
 [Pregnancy and delivery in women with von Willebrand disease - Castaman - 2019 - European Journal of Haematology - Wiley Online Library](https://onlinelibrary.wiley.com/doi/10.1111/ejh.13250)
 [[Reference notes/Readwise/Articles/Pregnancy and Delivery in Women With Von Willebrand Disease\|Pregnancy and Delivery in Women With Von Willebrand Disease]]
+
+[von Willebrand disease: proposing definitions for future research | Blood Advances | American Society of Hematology](https://ashpublications.org/bloodadvances/article/5/2/565/474997/von-Willebrand-disease-proposing-definitions-for)
+
+[[Reference notes/Readwise/Articles/Haemostatic Disorders in Pregnancy\|Haemostatic Disorders in Pregnancy - BJA Ed]]
+[Haemostatic disorders in pregnancy - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2058534920300196)
 

@@ -51,7 +51,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
     - Severe toxicity may result in really wide QRS complexes (> 200 ms), always consider hyperkalemia & Na+channel blocker toxicity when the QRS seems too wide
 ## Right axis deviation
 - Ventricular ectopy
-- Acute pulmonary hypertension (e.g., ==[[pages/Pulmonary embolism\|PE]]==)
+- Acute pulmonary hypertension (e.g., ==[[Knowledge/Part 2/Cardiac/Pulmonary embolism\|PE]]==)
 - Chronic pulmonary hypertension (g., COPD)
 - [[pages/Right ventricular hypertrophy\|Right ventricular hypertrophy]]
 - ==[[pages/hyperkalaemia\|hyperK]]==
@@ -67,7 +67,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
 - Bundle branch blocks ([[LBBB\|LBBB]], [[RBBB\|RBBB]], etc.)
 - Pre-excitation (e.g., [[pages/Wolff-Parkinson-White syndrome\|WPW]])
 - Metabolic (e.g., hyperkalemia or severe acidosis)
-- [[pages/Sodium channel blocker toxicity\|Sodium channel blocker toxicity]] (e.g., [[pages/tricyclic antidepressant\|TCA]], [[cocaine\|cocaine]] toxicity, etc.)
+- [[pages/Sodium channel blocker toxicity\|Sodium channel blocker toxicity]] (e.g., [[Knowledge/Part 2/Pharmacology/tricyclic antidepressant\|TCA]], [[cocaine\|cocaine]] toxicity, etc.)
 - Non-specific intraventricular conduction delay (e.g., LVH, cardiomyopathy)
 ## Tall R wave in V1
 - Ventricular beats/ectopy
@@ -76,7 +76,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
 - Posterior MI
 - Pre-excitation (e.g., Type A [[pages/Wolff-Parkinson-White syndrome\|WPW]])
 - Right ventricular hypertrophy (e.g., COPD, Pulmonary HTN, muscular dystrophy, etc.)
-- Acute RV strain ([[pages/Pulmonary embolism\|PE]])
+- Acute RV strain ([[Knowledge/Part 2/Cardiac/Pulmonary embolism\|PE]])
 - [[hypertrophic cardiomyopathy\|hypertrophic cardiomyopathy]]
 - Dextrocardia, situs inversus
 - Misplaced precordial lead
@@ -104,7 +104,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
 ## TWI
 - Coronary artery disease (ischemia, reperfusion, Wellens waves)
 - Pulmonary causes 
-	- ([[pages/Pulmonary embolism\|PE]], pneumothorax, pulmonary HTN, pneumonia, hyperventilation, etc.)
+	- ([[Knowledge/Part 2/Cardiac/Pulmonary embolism\|PE]], pneumothorax, pulmonary HTN, pneumonia, hyperventilation, etc.)
 - Neurological causes (elevated intracranial pressure, intracranial hemorrhage, etc.)
 - Post-tachycardia, post-shock, post-pacing (“cardiac memory”)
 - [[pages/arrhythmogenic right ventricular dysplasia\|ARVD]] (V1-V3)
@@ -120,7 +120,7 @@ Tags: [[Knowledge/Medicine/ECG\|ECG]]
 ## TWI ==V1-V2==
 - Anteroseptal ischemia
 - [[pages/Persistent juvenile T wave pattern\|Persistent juvenile T wave pattern]]
-- [[pages/Pulmonary embolism\|Pulmonary embolism]]
+- [[Knowledge/Part 2/Cardiac/Pulmonary embolism\|Pulmonary embolism]]
 - [[pages/Right ventricular hypertrophy\|RVH]] with strain
 - (I)RBBB
 	- usually with ST depression, rsR’, and lateral s waves

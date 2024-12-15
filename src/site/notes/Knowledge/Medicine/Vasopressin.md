@@ -28,11 +28,11 @@ release vWF & F8
 ### V3 = V1b
 pituitary stimulation → ACTH production
 
-(cross reactivity with [[pages/Oxytocin\|oxytocin]])
+(cross reactivity with [[Knowledge/Part 2/Obs/Oxytocin\|oxytocin]])
 ## Analogues
 Vials: ==synthetic== vasopressin
-### [[pages/DDAVP\|Desmopressin]]
-= [[pages/DDAVP\|DDAVP]] (brand name)
+### [[../../pages/DDAVP\|Desmopressin]]
+= [[../../pages/DDAVP\|DDAVP]] (brand name)
 synthetic analogue of ADH
 ==D==-arginine for L-arginine at position 8; position 1 ==d==eaminated
 → V2 specificity

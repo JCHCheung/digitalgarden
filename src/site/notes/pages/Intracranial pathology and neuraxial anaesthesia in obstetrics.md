@@ -70,7 +70,7 @@ Syringomyelia formation may be indicative of ==intermittent obstruction== of CSF
 
 concern: obstruction would be exacerbated with pushing (i.e. [[Knowledge/Medicine/Valsalva Manoeuvre\|Valsalva manoeuvre]]) during the ==second stage== of labour.
 
-Chiari malformation is often associated with kyphosis and [[pages/Scoliosis\|scoliosis]], which can increase difficulty with GA and neuraxial anaesthesia, respectively
+Chiari malformation is often associated with kyphosis and [[Knowledge/Part 2/Paed/Scoliosis\|scoliosis]], which can increase difficulty with GA and neuraxial anaesthesia, respectively
 
 Expert reviews advocate for usual anaesthetic and obstetric care in patients with type 1 CM who lack ==crowding at the foramen magnum== and associated CM ==symptoms== with shared decision-making with neurosurgical consultation in pregnant patients with CM when concerns for increased ICP and CSF flow obstruction exist
 
@@ -92,7 +92,7 @@ The risk of AVM ==rupture== may be increased by higher ==oestrogen== concentrati
 
 Neuraxial analgesia or anaesthesia is generally considered ==safe== in patients with ==stable AVM== as it avoids ==acute ICP increases== related to pain with labour as well as induction and intubation with GA.
 
-## [[pages/Preeclampsia\|PET]]
+## [[Knowledge/Part 2/Obs/Preeclampsia\|PET]]
 Preeclampsia with severe features has 19–43% increased ICP based on diameter of the optic nerve sheath
 
 In the absence of an additional acute neurologic event, labour epidural analgesia and neuraxial anaesthesia remain the ==preferred== choices for labour and CD and both are widely used in preeclampsia, with close hemodynamic control

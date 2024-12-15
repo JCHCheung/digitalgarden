@@ -32,7 +32,7 @@ can be intermittent
 - ==Wide== complex ==regular== rhythm
 	- ==antidromic== AVRT
 	- looks like [[pages/Ventricular tachycardia\|VT]] → treat like [[pages/Ventricular tachycardia\|VT]]
-Possibility of [[pages/adenosine#Adenosine induced atrial fibrillation\|adenosine induced AF]]
+Possibility of [[Knowledge/Part 2/Pharmacology/adenosine#Adenosine induced atrial fibrillation\|adenosine induced AF]]
 ## Pre-excited [[pages/atrial fibrillation\|AF]]
 - Very rapid ==irregularly irregular tachycardia==
 	- rates may approach ==250-300== beats/min
@@ -44,7 +44,7 @@ Possibility of [[pages/adenosine#Adenosine induced atrial fibrillation\|adenosin
     - Misdiagnosis and treatment with AVN blockers can be deadly!
 - Treat with procainamide, flecainide, or preferably ==electrical cardioversion==
 - Avoid all AV Nodal blockers
-    - [[pages/adenosine\|adenosine]]
+    - [[Knowledge/Part 2/Pharmacology/adenosine\|adenosine]]
 	- Beta-blockers
 	- Calcium channel blockers
 	- Digoxin

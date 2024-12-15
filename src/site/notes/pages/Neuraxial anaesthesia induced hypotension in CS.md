@@ -29,7 +29,7 @@ Although α-agonists that also have some β-agonist activity, such as norepineph
 
 A potential downside of ==norepinephrine== is the risk of ==drug dilution error== if prepared from concentrated vials manufactured for the ICU. Use of pre-made compounded dilute solutions may minimize the risk of dosing errors.
 
-In the case of patients with [[pages/Preeclampsia\|preeclampsia]], prophylactic administration of a vasopressor may not be necessary as these women are less likely to develop spinal anesthesia-induced hypotension than normotensive women
+In the case of patients with [[Knowledge/Part 2/Obs/Preeclampsia\|preeclampsia]], prophylactic administration of a vasopressor may not be necessary as these women are less likely to develop spinal anesthesia-induced hypotension than normotensive women
 
 A ==crystalloid fluid coload== (1 L administered immediately and rapidly after spinal injection) is preferable to a preload, and in combination with vasopressors significantly reduces the incidence of spinal-induced hypotension
 

@@ -40,7 +40,7 @@ This may be related to a compressive–ischaemic effect because of reduced cross
 
 no firm linkage to injury if spinal stenosis is at a site distant from the level of neuraxial block placement, and if possible, the neuraxial block can be performed at an alternative level to the one affected by disc herniation or stenosis.
 
-## [[pages/Scoliosis\|Scoliosis]]
+## [[Knowledge/Part 2/Paed/Scoliosis\|Scoliosis]]
 Scoliosis is defined as a ≥10° lateral curvature of the spine in the standing position on a coronal radiographic image
 
 idiopathic scoliosis is the most common aetiology with adolescent idiopathic scoliosis (AIS) encompassing 80% of cases

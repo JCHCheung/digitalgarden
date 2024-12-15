@@ -60,7 +60,7 @@ The airway obstruction of laryngomalacia generates negative intrathoracic pressu
 
 The laryngeal tissues are sensitive to the acid exposure and become edematous as a response. Increased supraglottic edema results in further collapsing of these tissues into the airway and further obstructive symptoms
 
-### [[pages/congenital heart disease\|CHD]]
+### [[Knowledge/Part 2/Cardiac/congenital heart disease\|CHD]]
 Congenital heart disease is reported in 10% of infants with laryngomalacia
 
 
