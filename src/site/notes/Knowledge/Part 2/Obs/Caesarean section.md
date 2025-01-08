@@ -53,14 +53,8 @@ Evidence of ==S1 block (plantar flexion)== is common with spinal anesthesia but 
 ==Inadequate sacral anesthesia== may be present if normal ankle motor function is observed and is likely to result in ==intraoperative pain==
 
 ## [[pages/Neuraxial anaesthesia induced hypotension in CS\|Neuraxial anaesthesia induced hypotension in CS]]
-## Intra-op pain
-Breakthrough pain may occur despite an apparently adequate block
 
-Intraoperative pain risks negative psychological consequences, including post-traumatic stress disorder, and is a cause of successful ==medicolegal claims==
-
-The Obstetric Anaesthetists’ Association recommends that the ==upper and lower limit== of the sensory block and motor block should be tested, that complaints of pain should be acknowledged and managed with IV supplementation of opioids that have rapid onset including ==fentanyl==(25-50µg) or ==remifentanil== with low-dose ==ketamine== (10mg).
-
-==Conversion to GA== should be discussed with the patient and performed if effective analgesia is not achieved
+## [[pages/Intra-op pain during Caesarean section\|Intra-op pain during Caesarean section]]
 
 # IONV
 Steps to prevent intra- and postoperative nausea and vomiting include avoiding hypotension, avoiding uterine exteriorization and administering a combination of prophylactic IV agents, including a 5-HT3 antagonist such as ondansetron 4 mg, or a glucocorticoid such as dexamethasone 4 to 8 mg

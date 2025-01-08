@@ -13,6 +13,7 @@ Tags: [[haematology\|haematology]]
 
 Conventional coagulation tests were not developed to be used as overall markers of hemostasis, and only provide information on the ==time for clot initiation== in plasma and NOT on ==dynamics== and ==strength== in whole blood.
 
+Evidence in trauma, PPH, liver transplant, cardiac surgery
 # ROTEM
 Rotational thromboelastometry (ROTEM, TEM International, Munich, Germany) utilizes a fixed cuvette and a rotating pin to initiate clotting
 

@@ -7,10 +7,16 @@
 
 Status: #idea
 
-Tags:
+Tags: [[Knowledge/Medicine/pharmacology\|pharmacology]]
 
 # Vasopressin
 # Background
+Vasopressin is a non-catecholaminergic nonapeptide with activity on vasopressin V1 (vascular smooth muscle contraction) and V2 (antidiuretic effects) receptors
+
+Vasoconstrictor effects are seen at higher plasma concentrations (10–200 pg/ml)
+
+Vasopressin leads to inactivation of ==K-ATP== channels, potentiates the effects of catecholamines and ==reduces iNOS== production
+
 ![](https://i.imgur.com/JUNuym5.png)
 
 ![](https://i.imgur.com/3CP4zGa.png)
@@ -31,8 +37,8 @@ pituitary stimulation → ACTH production
 (cross reactivity with [[Knowledge/Part 2/Obs/Oxytocin\|oxytocin]])
 ## Analogues
 Vials: ==synthetic== vasopressin
-### [[../../pages/DDAVP\|Desmopressin]]
-= [[../../pages/DDAVP\|DDAVP]] (brand name)
+### [[Knowledge/Part 2/Pharmacology/DDAVP\|desmopressin]]
+= [[Knowledge/Part 2/Pharmacology/DDAVP\|DDAVP]] (brand name)
 synthetic analogue of ADH
 ==D==-arginine for L-arginine at position 8; position 1 ==d==eaminated
 → V2 specificity

@@ -54,7 +54,7 @@ Dosing requirements increase over the course of pregnancy as ==blood volume==, [
 
 ==Therapeutic== UFH is used less frequently but is dosed at 10,000 units Q12 h, targeting an activated partial thromboplastin time (aPTT) of 1.5–2.5 times control 6 h after injection
 
-==Prophylactic== LMWHs, including enoxaparin, dalteparin and tinzaparin, are typically dosed once daily
+==Prophylactic== LMWHs, including enoxaparin, dalteparin and tinzaparin, are typically dosed ==once daily==
 
 American College of Obstetricians and Gynecologists (ACOG) recommendations are based on ==fixed== dosing, whereas Royal College of Obstetricians and Gynaecologists (RCOG) recommendations are ==weight-adjusted==
 
@@ -73,9 +73,10 @@ patients in the Highlow study were instructed to ==stop== their anticoagulant do
 # Fondaparinux
 Fondaparinux is a heparin-like drug that should only be used with advice from a haematologist, and reserved for patients intolerant of heparin-containing medications
 
-Of particular concern is its long (17 h) half-life
+Of particular concern is its ==long (17 h) half-life==
 
-Fondaparinux should be held for 36–42 h before neuraxial blockade or catheter removal; 6–12 h should elapse after neuraxial blockade or catheter removal before restarting the medication
+Fondaparinux should be held for ==36–42 h== before neuraxial blockade or catheter removal
+==6–12 h== should elapse after neuraxial blockade or catheter removal before restarting the medication
 
 # Warfarin
 Warfarin is a vitamin K antagonist less frequently used during pregnancy given its ==teratogenicity== and ability to ==cross the placenta==
@@ -179,7 +180,7 @@ Patients who are hospitalised antenatally and require thromboprophylaxis warrant
 
 There is currently ==little evidence== for the use of point-of-care anticoagulation testing to assess suitability for neuraxial anaesthesia
 
-If patients are receiving neuraxial [[Knowledge/Part 2/Obs/Labour analgesia\|labour analgesia]], using low concentration local anaesthetics may limit the extent of motor block during labour, to allow for ==concurrent assessment of epidural haematoma==.
+If patients are receiving neuraxial [[Knowledge/Part 2/Obs/Neuraxial labour analgesia\|Neuraxial labour analgesia]], using low concentration local anaesthetics may limit the extent of motor block during labour, to allow for ==concurrent assessment of epidural haematoma==.
 
 
 

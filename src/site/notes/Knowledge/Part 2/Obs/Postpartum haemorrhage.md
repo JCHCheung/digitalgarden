@@ -235,7 +235,7 @@ Median blood loss for patients with PAS undergoing cesarean hysterectomy has bee
 
 Depending on the degree of invasion, 4 to 8 units of pRBCs should be in the operating room, checked and ready to transfuse if needed. FFP, platelets, and cryoprecipitate should also be easily acquirable
 
-[[Cell salvage\|Cell salvage]] may be most beneficial for cases with higher anticipated blood loss to ensure that enough red cells are collected for reinfusion. In these cases, cell salvage may decrease the amount of allogenic blood transfused
+[[pages/Cell salvage\|Cell salvage]] may be most beneficial for cases with higher anticipated blood loss to ensure that enough red cells are collected for reinfusion. In these cases, cell salvage may decrease the amount of allogenic blood transfused
 
 There is a paucity of evidence-based trauma-informed guidelines and recommendations for patients with PAS
 

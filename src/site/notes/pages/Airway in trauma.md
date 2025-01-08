@@ -70,3 +70,9 @@ Patients with suspected traumatic brain injury (TBI) often require tracheal intu
 
 ___
 # References
+[[Reference notes/Readwise/Articles/In-Hospital Management of the Airway in Trauma\|In-Hospital Management of the Airway in Trauma]]
+
+[[Reference notes/Readwise/Books/Airway Consideration in Maxillofacial Trauma\|Airway Consideration in Maxillofacial Trauma]]
+
+[[Reference notes/Readwise/Articles/Airway Management in Penetrating Thoracic Trauma\|Airway Management in Penetrating Thoracic Trauma]]
+

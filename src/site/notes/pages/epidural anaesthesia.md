@@ -10,7 +10,7 @@ Status:
 Tags: [[pages/Obstetrics\|Obstetrics]], [[Knowledge/Medicine/Neuraxial block\|Neuraxial block]]
 
 # EA
-
+epidural technique takes approximately ==50 attempts== to achieve a consistent and confident success
 ## Sitting vs lateral
 Benefits of ==lateral== position
 - ↓ patient movement
@@ -46,6 +46,11 @@ Benefits of ==lateral== position
 	- ∵ cephalad directing
 - can travel through epidural space further
 	- catheter stays cephalad & midline
+- LOR more crisp
+	- midline gaps in ligamentum flavum incidence 10%
+- ↑ venous trauma / cannulation
+	- ∵ epidural venous plexus mostly paramedian
+		- engorged in pregnancy
 ![](https://i.imgur.com/ec6aoHn.png)
 (Boon - 2004; 5 = ligamentum flavum, 6 = epidural space, 7 = dura matar)
 
@@ -100,8 +105,8 @@ conc. LA impairs ambulation for at least 60min
 ? ↓benefit w/ new (= softer) catheters
 
 ## Securing the catheter
-catheter naturally moves w/ soft tissue
-→ allow to change posture before taping
+catheter naturally moves w/ soft tissue (up to 4cm movement in BMI >30)
+→ allow to change posture before taping 
 
 but 7cm inside ↑ unilateral block
 
@@ -151,6 +156,12 @@ definition varies & unclear e.g.
 	- mono-orificial catheter
 	- catheter stiffness
 - chosen method of LOR
+### Sacral block sparing
+sacral nerve fibers, compared to lumbar nerve fibers, are more difficult to block ∵ ==larger diameter== and ==thicker myelin sheaths==
+
+analgesic solutions administered in the lumbar epidural space have a greater propensity for ==cephalad==, rather than caudal, spread
+
+Using a ==lower lumbar== insertion point diminishes the distance to the sacral elements but does not appear to fully mitigate sacral sparing
 ## lignocaine
 - more likely to cause tachyphylaxis & neurotoxicity
 - NOT recommended for labour analgesia
@@ -257,3 +268,4 @@ Boon, J.M., Abrahams, P.H., Meiring, J.H. and Welch, T. (2004), **Lumbar punctu
 
 [[Reference notes/Readwise/Articles/Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section\|Conversion of Labour Epidural Analgesia to Surgical Anaesthesia for Emergency Intrapartum Caesarean Section - BJA Ed]]
 
+[[Reference notes/Readwise/Articles/Neuraxial Labor Analgesia Initiation Techniques\|Neuraxial Labor Analgesia Initiation Techniques - BPRCA]]

@@ -11,9 +11,10 @@ Tags:
 
 # Trauma
 
-[[pages/Airway\|Airway]]
-
+[[pages/Airway in trauma\|Airway in trauma]]
+[[pages/Abdominal trauma\|Abdominal trauma]]
 [[pages/Traumatic cardiac arrest\|Traumatic cardiac arrest]]
+[[pages/Traumatic brain injury\|TBI]]
 ## Pre-briefing
 Benefits
 - shared mental model

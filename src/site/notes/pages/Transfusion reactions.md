@@ -14,7 +14,7 @@ Tags:
 
 
 
-TRALI
+# TRALI
 low-risk TRALI donor strategies:
 - donor deferral based on antibody screening
 	- screening all donors for HLA and/or HNA antibodies

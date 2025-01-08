@@ -10,13 +10,38 @@ Status:
 Tags: [[vascular\|vascular]]
 
 # Aortic cross clamping
-Open surgical procedures of the thoracoabdominal aorta carry the highest mortality rate among elective procedures
+Open surgical procedures of the ==thoracoabdominal== aorta carry the highest mortality rate among elective procedures
 overall 30-day mortality ranging from 8% to 35%
 
-Traditionally, aortic aneurysms are treated by open repair: following direct surgical exposure of the aorta, it is cross-clamped proximately and distally to the aneurysm, and the aneurysm is then opened and replaced by a prosthetic graft
+Traditionally, aortic aneurysms are treated by open repair: following direct surgical exposure of the aorta, it is cross-clamped ==proximately== and ==distally== to the aneurysm, and the aneurysm is then opened and replaced by a prosthetic graft
+
+In the ==elective== case, prior to aortic cross-clamping, a dose of [[pages/unfractionated heparin\|unfractionated heparin]] is given intravenously to reduce the risk of thrombosis
+A recent systematic review has questioned the evidence supporting the beneficial effect of heparin in open AAA surgery and recommended the need for further research.
 ![](https://i.imgur.com/G7D5wzI.png)
-Repair of juxta- and suprarenal aortic aneurysms, compared with infrarenal aortic aneurysms, involves a more extensive mobilization of the viscera to achieve adequate exposure of the abdominal aorta. Furthermore, reimplantation of branch vessels or creation of an oblique anastomosis to accommodate branch vessel ostia is sometimes required. This added complexity can prolong the period of renal ischemia during aortic clamping – potentially increasing operative morbidity and mortality as well as the postoperative risk of renal dysfunction.
+Repair of ==juxta==- and ==suprarenal== aortic aneurysms, compared with ==infrarenal== aortic aneurysms, involves a more ==extensive mobilization== of the viscera to achieve adequate exposure of the abdominal aorta. Furthermore, ==reimplantation== of branch vessels or creation of an oblique anastomosis to accommodate branch vessel ostia is sometimes required. This added complexity can prolong the period of ==renal ischemia== during aortic clamping – potentially increasing operative morbidity and mortality as well as the postoperative risk of ==renal dysfunction==.
 # Haemodynamic Δ
+When the cross-clamp is applied, perfusion to the ==lower half== of the body is entirely reliant upon ==collateral== circulation and there is a sudden increase in arterial pressure proximal to the clamp
+
+↑ afterload & LV wall tension → ↑ myocardial workload & ↑ oxygen demand.
+In normal circumstances, this would be met by an ==↑ coronary blood flow== & oxygen supply, but in patients with CAD it can cause ==myocardial ischaemia== and impaired cardiac output
+
+Management of this iatrogenic physiological change relies on ==vasodilatation==
+- vasodilators
+	- [[Knowledge/Medicine/glyceral trinitrate\|GTN]]
+	- [[Knowledge/Part 2/Pharmacology/opioid\|opioid]]
+- or by ↑ depth of anaesthesia
+
+Factors affecting haemodynamic changes w/ cross-clamp:
+- ==Level== of clamp
+- Blood volume redistribution
+- LV function
+- Presence of CAD
+- Extent of ==collateral== circulation
+- Type of aortic disease (abdominal aortic aneurysm vs aorto-occlusive)
+- Intravascular ==volume status== at the time
+- Anaesthesia
+- ==Duration== of cross-clamp
+
 **Supraceliac** clamping:
 ![](https://i.imgur.com/G6BgVn0.png)
 **Infraceliac** clamping:
@@ -53,7 +78,6 @@ Vasodilators may facilitate Anrep effect ∵
 - ↓ afterload
 - ↓ preload
 - ↑ coronary perfusion
-
 ## PPV
 PPV unreliable for ==intra-renal== clamping ∵blood flow shifts from infrasplanchnic to splanchnic vasculature
 
@@ -71,7 +95,28 @@ O2 uptake ↓ in muscles proximal to clamp ?∵ ==↓ capillary== nutritive bloo
 
 aortic cross-clamp duration of greater than 90 min is independently associated with a higher mortality
 
-# Haemodynamic Δ after unclamping
+# Haemodynamic Δ after ==unclamping==
+A second physiological insult occurs when the aortic cross-clamp is removed
+
+SVR ↓ by ==3/4== resulting in potentially profound hypotension. 
+↓ BP may be compounded by 
+- blood ==sequestration== in lower half of the body, 
+- ischaemia-reperfusion injury,
+- release of anaerobic metabolites
+
+severity of hypotension ∝ cross-clamp ==time==
+
+Preparation prior to unclamping
+the aims should be to achieve adequate ==volume== resuscitation and ==cardiovascular== stability, correct acid-base and electrolyte ==disturbances== and normalize the ==temperature==. Increased ==minute ventilation== during the period of cross-clamping may help to minimizes the effects of the ensuing metabolic acidosis
+
+These measures in conjunction with a ==gradual release== of the cross-clamp can reduce the degree of hypotension observed
+
+Vasoconstrictors and positive inotropes may be required even after fluid replacement
+
+In ==refractory== hypotension, the cross-clamp may have to be ==reapplied==
+
+The ==gradual unclamping== of the ==common iliac arteries== one at a time, over a few minutes may also be helpful.
+
 ![](https://i.imgur.com/hJhTzNO.png)
 
 ↓SVR

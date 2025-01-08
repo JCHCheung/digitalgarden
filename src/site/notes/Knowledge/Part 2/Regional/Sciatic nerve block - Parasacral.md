@@ -12,6 +12,11 @@ Tags: [[../Knowledge/Medicine/Regional Anaesthesia\|Regional]]
 # Sciatic nerve block - Parasacral
 = [[Knowledge/Part 2/Regional/Sacral plexus block\|Sacral plexus block]]
 
+Taha
+Bendtsen
+Casal
+PIP
+
 Parasacral parallel shift
 ![](https://i.imgur.com/VbLX2lh.png)
 
@@ -21,7 +26,7 @@ Parasacral parallel shift
 
 landmark: greater sciatic notch
 
-
+may lead to urinary retention ∵ LA spreading to pelvic splanchnic nerves (inferior hypogastric plexus)
 
 
 
